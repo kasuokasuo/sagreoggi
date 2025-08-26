@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>A che sagra vado oggi?</title>
+<style>
+  html, body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    font-family: "Arial Narrow", Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff;
+    color: #000000;
+    text-align: center;
+    cursor: pointer;
+    transition: background 0.3s, color 0.3s;
+  }
+  #sagra {
+    user-select: none;
+    line-height: 12em;
+    letter-spacing: -0.1em;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .nome, .date, .citta {
+    font-size: 15em;
+    margin: 0.1em 0;
+  }
+  #plusSagra {
+    font-size: 3em;            /* ridotto da 4em a 3em */
+    margin-bottom: 1em;        /* spostato leggermente più in basso */
+    cursor: pointer;
+    user-select: none;
+  }
+</style>
+</head>
+<body id="body">
+  <div id="sagra">
+    <div class="nome"></div>
+    <div class="date"></div>
+    <div class="citta"></div>
+  </div>
+  <div id="plusSagra">+ Sagre</div>
+
+<script>
+const JSON_URL = "sagre_processed.json";
+
+const nomeEl = document.querySelector(".nome");
+const dateEl = document.querySelector(".date");
+const cittaEl = document.querySelector(".citta");
+const plusBtn = document.getElementById("plusSagra");
+
+let sagre = [];
+
+// combinazioni colori: [testo, sfondo]
+const colors = [
+  ["#000000", "#FFFF00"], // nero su giallo
+  ["#FF0000", "#000000"], // rosso su nero
+  ["#000000", "#FFFFFF"], // nero su bianco
+  ["#000000", "#87CEEB"], // nero su azzurro
+  ["#FFFFFF", "#008000"]  // bianco su verde
+];
+
+function parseDate(str) {
+  const months = {
+    "Gennaio":0,"Febbraio":1,"Marzo":2,"Aprile":3,"Maggio":4,"Giugno":5,
+    "Luglio":6,"Agosto":7,"Settembre":8,"Ottobre":9,"Novembre":10,"Dicembre":11
+  };
+  const parts = str.trim().split(" ");
+  if(parts.length < 3) return null;
+  const giornoRange = parts[0].split("-");
+  const mese = months[parts[1]];
+  const anno = parseInt(parts[2]);
+  return {
+    start: new Date(anno, mese, parseInt(giornoRange[0])),
+    end: new Date(anno, mese, parseInt(giornoRange[giornoRange.length-1]))
+  };
+}
+
+let ultimaSagra = null;
+
+function mostraSagra() {
+  const oggi = new Date();
+  const attive = sagre.filter(s => {
+    const range = parseDate(s.date);
+    if(!range) return false;
+    return oggi >= range.start && oggi <= range.end;
+  });
+
+  if(attive.length === 0) {
+    nomeEl.textContent = "Oggi niente sagra :'(";
+    dateEl.textContent = "";
+    cittaEl.textContent = "";
+    return;
+  }
+
+  const s = attive[Math.floor(Math.random() * attive.length)];
+
+  // Cambia colore solo se cambia la sagra
+  if(!ultimaSagra || s.nome !== ultimaSagra.nome) {
+    const c = colors[Math.floor(Math.random() * colors.length)];
+    document.body.style.color = c[0];
+    document.body.style.background = c[1];
+  }
+
+  nomeEl.textContent = s.nome;
+  dateEl.textContent = s.date;
+  cittaEl.textContent = `${s.citta} (${s.provincia})`;
+
+  ultimaSagra = s;
+}
+
+// carica JSON
+fetch(JSON_URL)
+  .then(res => res.json())
+  .then(data => {
+    sagre = data;
+    mostraSagra(); // mostra subito
+  })
+  .catch(err => {
+    console.error(err);
+    nomeEl.textContent = "Errore nel caricamento sagre";
+  });
+
+// cambia sagra al click su tutto il body e sul pulsante
+document.getElementById("body").addEventListener("click", mostraSagra);
+plusBtn.addEventListener("click", mostraSagra);
+</script>
+</body>
+</html>

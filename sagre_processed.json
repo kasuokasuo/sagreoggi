@@ -1,0 +1,320 @@
+[
+  {
+    "nome": "Festa del Patrono di Sant'Agostino",
+    "date": "26-28 Agosto 2025",
+    "citta": "Sant'Agostino di Terre del Reno",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra del Pinzino e Arrosticino",
+    "date": "1-7 Settembre 2025",
+    "citta": "Ferrara",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra del Cotechino",
+    "date": "4-7 Settembre 2025",
+    "citta": "Alberone di Cento",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra della Bistecca",
+    "date": "28-31 Agosto 2025",
+    "citta": "Badia al Pino",
+    "provincia": "AR"
+  },
+  {
+    "nome": "Sagra dell'Ortica di Malalbergo",
+    "date": "4-7 Settembre 2025",
+    "citta": "Malalbergo",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Fiera Nazionale del Peperone di Carmagnola",
+    "date": "1-7 Settembre 2025",
+    "citta": "Carmagnola",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Festa della Tagliatella",
+    "date": "1-1 Settembre 2025",
+    "citta": "Cavezzo",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Sagra della Tagliatella Finalese",
+    "date": "1-1 Settembre 2025",
+    "citta": "Finale Emilia",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Sagra d'Estate",
+    "date": "5-7 Settembre 2025",
+    "citta": "Serravalle di Riva del Po",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra dell'Anatra",
+    "date": "5-8 Settembre 2025",
+    "citta": "Stellata di Bondeno",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Festa dal Figh ad Figarol",
+    "date": "1-2 Settembre 2025",
+    "citta": "Ficarolo",
+    "provincia": "RO"
+  },
+  {
+    "nome": "Sagra del Tartufo di Sant’Agostino",
+    "date": "3-15 Settembre 2025",
+    "citta": "Sant'Agostino di Terre del Reno",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Festa del Bo'",
+    "date": "4-9 Settembre 2025",
+    "citta": "Cervarese Santa Croce",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Birra e Tartufo",
+    "date": "5-6 Settembre 2025",
+    "citta": "Borgofranco sul Po di Borgocarbonara",
+    "provincia": "MN"
+  },
+  {
+    "nome": "Sagra del Garganello",
+    "date": "5-9 Settembre 2025",
+    "citta": "Codrignano di Borgo Tossignano",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Arrosticini nel Chiostro",
+    "date": "5-14 Settembre 2025",
+    "citta": "Ferrara",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra della Bondiola",
+    "date": "5-21 Settembre 2025",
+    "citta": "Poggio Renatico",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Fiera di Runzi ''S.S. Nome di Maria'' - Sagra del Somarino",
+    "date": "5-15 Settembre 2025",
+    "citta": "Runzi di Bagnolo di Po",
+    "provincia": "RO"
+  },
+  {
+    "nome": "Sagra del Tortellone - Festa della Madonna della Cintura",
+    "date": "6-14 Settembre 2025",
+    "citta": "Farneto di San Lazzaro di Savena",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Nuova Sagra dell'Ovo Casarino",
+    "date": "6-6 Settembre 2025",
+    "citta": "Longara di Calderara di Reno",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Magnalonga settembrina",
+    "date": "7-7 Settembre 2025",
+    "citta": "Negrar di Valpolicella",
+    "provincia": "VR"
+  },
+  {
+    "nome": "Sagra di Staggia",
+    "date": "12-15 Settembre 2025",
+    "citta": "Staggia di San Prospero",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Sagra dello Storione",
+    "date": "13-21 Settembre 2025",
+    "citta": "Casumaro",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra dal Caplaz",
+    "date": "13-16 Settembre 2025",
+    "citta": "Scortichino di Bondeno",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra Salamina da Sugo al Cucchiaio di Madonna Boschi",
+    "date": "3-5 Ottobre 2025",
+    "citta": "Madonna Boschi di Poggio Renatico",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Festa dei Sapori e delle Tradizioni",
+    "date": "19-21 Settembre 2025",
+    "citta": "Terrassa Padovana",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Festa dell'Equino e delle Tradizioni",
+    "date": "3-5 Ottobre 2025",
+    "citta": "Massa Finalese di Finale Emilia",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Festa del Cappelletto d'Autunno",
+    "date": "2-5 Ottobre 2025",
+    "citta": "Vigarano Pieve",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Emilia Food Fest",
+    "date": "26-28 Settembre 2025",
+    "citta": "Carpi",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Sagra dell'Anguilla",
+    "date": "4-12 Ottobre 2025",
+    "citta": "Comacchio",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Fuoco alle polveri",
+    "date": "27-28 Settembre 2025",
+    "citta": "Crevalcore",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Fiera di Santa Sofia",
+    "date": "1-5 Ottobre 2025",
+    "citta": "Canaro",
+    "provincia": "RO"
+  },
+  {
+    "nome": "Sagra del Tortellone d'Autunno",
+    "date": "2-12 Ottobre 2025",
+    "citta": "Bevilacqua di Crevalcore",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Palio del Maccherone al Pettine delle Valli Mirandolesi",
+    "date": "2-5 Ottobre 2025",
+    "citta": "Mirandola",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Fiera Nazionale del Tartufo Bianco di Borgofranco sul Po",
+    "date": "3-20 Ottobre 2025",
+    "citta": "Borgofranco sul Po di Borgocarbonara",
+    "provincia": "MN"
+  },
+  {
+    "nome": "Sagra del Radicchio di Bosco",
+    "date": "3-6 Ottobre 2025",
+    "citta": "Bosco Mesola",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Festa della Lumaca d'Autunno",
+    "date": "3-12 Ottobre 2025",
+    "citta": "Casumaro di Cento",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Festa del Salame",
+    "date": "3-5 Ottobre 2025",
+    "citta": "Cremona",
+    "provincia": "CR"
+  },
+  {
+    "nome": "Sagra del Bollito",
+    "date": "9-19 Ottobre 2025",
+    "citta": "San Pietro in Casale",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Gran Galà del Tortél Dols di Colorno",
+    "date": "11-12 Ottobre 2025",
+    "citta": "Colorno",
+    "provincia": "PR"
+  },
+  {
+    "nome": "Sbrisolona & Co",
+    "date": "17-19 Ottobre 2025",
+    "citta": "Mantova",
+    "provincia": "MN"
+  },
+  {
+    "nome": "Sciocolà",
+    "date": "1-2 Novembre 2025",
+    "citta": "Modena",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Ferrara Food Festival",
+    "date": "1-2 Novembre 2025",
+    "citta": "Ferrara",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra della Zucca e del suo Cappellaccio Ferrarese I.G.P. Sapori d'Autunno",
+    "date": "1-2 Novembre 2025",
+    "citta": "San Carlo di Terre del Reno",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Tartufesta del Po",
+    "date": "1-17 Novembre 2025",
+    "citta": "Carbonara di Po di Borgocarbonara",
+    "provincia": "MN"
+  },
+  {
+    "nome": "Novemberfest",
+    "date": "7-15 Novembre 2025",
+    "citta": "Bevilacqua di Crevalcore",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Sagra del Tartufo",
+    "date": "7-16 Novembre 2025",
+    "citta": "Casumaro",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra del Tuber Magnatum Pico del Bosco della Panfilia",
+    "date": "7-23 Novembre 2025",
+    "citta": "Sant'Agostino di Terre del Reno",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Festa del Torrone",
+    "date": "8-16 Novembre 2025",
+    "citta": "Cremona",
+    "provincia": "CR"
+  },
+  {
+    "nome": "Astro Gastro d'Autunno",
+    "date": "14-16 Novembre 2025",
+    "citta": "Bondeno",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra delle Rane d'Autunno",
+    "date": "14-16 Novembre 2025",
+    "citta": "Poggio Renatico",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sweet Pampepato",
+    "date": "21-23 Novembre 2025",
+    "citta": "Terni",
+    "provincia": "TR"
+  },
+  {
+    "nome": "6 Giorni del Cotechino",
+    "date": "6-15 Febbraio 2026",
+    "citta": "Alberone di Cento",
+    "provincia": "FE"
+  }
+]
