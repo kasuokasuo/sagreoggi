@@ -33,11 +33,18 @@
     margin: 0.1vw 0;
   }
   #plusSagra {
-    font-size: 3vw;            /* ridotto da 4em a 3em */
-    margin-bottom: 1vw;        /* spostato leggermente più in basso */
-    cursor: pointer;
-    user-select: none;
-  }
+  font-size: 3em;
+  margin-top: 0.5em;   /* più basso rispetto al testo */
+  text-align: center;
+  cursor: pointer;
+  display: block;
+  text-decoration: none; /* rimuove sottolineatura */
+  color: #000000;        /* sempre nero */
+}
+#plusSagra:hover {
+  color: #000000;        /* no hover */
+  text-decoration: none;
+}
 </style>
 </head>
 <body id="body">
@@ -46,12 +53,13 @@
     <div class="date"></div>
     <div class="citta"></div>
   </div>
-  <a 
+<a 
   id="plusSagra" 
   href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6rZ9HWKiewle1XYEmm_ssMkNfHOvL4T6tT9rSRc7eCXsWg/viewform?usp=dialog" 
   target="_blank" 
   rel="noopener noreferrer"
 >+sagre</a>
+
 
 
 <script>
