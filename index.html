@@ -17,7 +17,7 @@
     color: #000000;
     text-align: center;
     cursor: pointer;
-    transition: background 0s, color 0s;
+    transition: background 0.5s, color 0.5s;
   }
   #sagra {
     user-select: none;
@@ -32,19 +32,32 @@
     font-size: 10vw;
     margin: 0.1vw 0;
   }
-  #plusSagra {
-  font-size: 3em;
-  margin-top: 0.5em;   /* più basso rispetto al testo */
-  text-align: center;
-  cursor: pointer;
-  display: block;
-  text-decoration: none; /* rimuove sottolineatura */
-  color: #000000;        /* sempre nero */
-}
-#plusSagra:hover {
-  color: #000000;        /* no hover */
-  text-decoration: none;
-}
+  .buttons {
+    position: fixed;
+    bottom: 1em;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 2em;
+  }
+  .btn {
+    font-size: 2em;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.5s;
+  }
+  #tutteContainer {
+    display: none;
+    flex: 1;
+    width: 90%;
+    overflow-y: auto;
+    margin-top: 2em;
+    text-align: left;
+  }
+  #tutteContainer div {
+    font-size: 5vw;
+    margin-bottom: 1em;
+  }
 </style>
 </head>
 <body id="body">
@@ -53,14 +66,19 @@
     <div class="date"></div>
     <div class="citta"></div>
   </div>
-<a 
-  id="plusSagra" 
-  href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6rZ9HWKiewle1XYEmm_ssMkNfHOvL4T6tT9rSRc7eCXsWg/viewform?usp=dialog" 
-  target="_blank" 
-  rel="noopener noreferrer"
->+sagre</a>
+  
+  <div id="tutteContainer"></div>
 
-
+  <div class="buttons">
+    <a 
+      id="plusSagra" 
+      class="btn"
+      href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6rZ9HWKiewle1XYEmm_ssMkNfHOvL4T6tT9rSRc7eCXsWg/viewform?usp=dialog" 
+      target="_blank" 
+      rel="noopener noreferrer"
+    >+sagre</a>
+    <div id="tutteBtn" class="btn">tutte</div>
+  </div>
 
 <script>
 const JSON_URL = "sagre_processed.json";
@@ -69,17 +87,23 @@ const nomeEl = document.querySelector(".nome");
 const dateEl = document.querySelector(".date");
 const cittaEl = document.querySelector(".citta");
 const plusBtn = document.getElementById("plusSagra");
+const tutteBtn = document.getElementById("tutteBtn");
+const tutteContainer = document.getElementById("tutteContainer");
 
 let sagre = [];
 
 // combinazioni colori: [testo, sfondo]
 const colors = [
   ["#000000", "#FFFF00"], // nero su giallo
-  ["#FF0000", "#000000"], // rosso su nero
+  ["#FF0000", "#FFFFFF"], // rosso su bianco
   ["#000000", "#FFFFFF"], // nero su bianco
   ["#000000", "#87CEEB"], // nero su azzurro
   ["#FFFFFF", "#008000"]  // bianco su verde
 ];
+
+let ultimaSagra = null;
+let ultimoColore = -1;
+let inLista = false;
 
 function parseDate(str) {
   const months = {
@@ -97,20 +121,26 @@ function parseDate(str) {
   };
 }
 
-let ultimaSagra = null;
-
-function mostraSagra() {
+function getAttive() {
   const oggi = new Date();
-  const attive = sagre.filter(s => {
+  return sagre.filter(s => {
     const range = parseDate(s.date);
     if(!range) return false;
     return oggi >= range.start && oggi <= range.end;
   });
+}
+
+function mostraSagra() {
+  if (inLista) return; // non cambiare se in vista lista
+
+  const attive = getAttive();
 
   if(attive.length === 0) {
     nomeEl.textContent = "Oggi niente sagra :'(";
     dateEl.textContent = "";
     cittaEl.textContent = "";
+    plusBtn.style.color = "#000000"; 
+    tutteBtn.style.color = "#000000"; 
     return;
   }
 
@@ -118,9 +148,17 @@ function mostraSagra() {
 
   // Cambia colore solo se cambia la sagra
   if(!ultimaSagra || s.nome !== ultimaSagra.nome) {
-    const c = colors[Math.floor(Math.random() * colors.length)];
+    let index;
+    do {
+      index = Math.floor(Math.random() * colors.length);
+    } while(index === ultimoColore);
+
+    ultimoColore = index;
+    const c = colors[index];
     document.body.style.color = c[0];
     document.body.style.background = c[1];
+    plusBtn.style.color = c[0]; 
+    tutteBtn.style.color = c[0]; 
   }
 
   nomeEl.textContent = s.nome;
@@ -130,21 +168,49 @@ function mostraSagra() {
   ultimaSagra = s;
 }
 
+function mostraLista() {
+  inLista = true;
+  document.getElementById("sagra").style.display = "none";
+  tutteContainer.style.display = "block";
+  tutteContainer.innerHTML = "";
+
+  const attive = getAttive();
+
+  if(attive.length === 0) {
+    tutteContainer.innerHTML = "<div>Oggi niente sagra :'("</div>";
+    return;
+  }
+
+  attive.forEach(s => {
+    const el = document.createElement("div");
+    el.textContent = `${s.nome} — ${s.date} — ${s.citta} (${s.provincia})`;
+    tutteContainer.appendChild(el);
+  });
+}
+
+function tornaSingola() {
+  if (!inLista) return;
+  inLista = false;
+  tutteContainer.style.display = "none";
+  document.getElementById("sagra").style.display = "flex";
+  mostraSagra();
+}
+
 // carica JSON
 fetch(JSON_URL)
   .then(res => res.json())
   .then(data => {
     sagre = data;
-    mostraSagra(); // mostra subito
+    mostraSagra(); 
   })
   .catch(err => {
     console.error(err);
     nomeEl.textContent = "Errore nel caricamento sagre";
   });
 
-// cambia sagra al click su tutto il body e sul pulsante
-document.getElementById("body").addEventListener("click", mostraSagra);
-plusBtn.addEventListener("click", mostraSagra);
+// eventi
+document.getElementById("body").addEventListener("click", tornaSingola);
+tutteBtn.addEventListener("click", mostraLista);
 </script>
 </body>
 </html>

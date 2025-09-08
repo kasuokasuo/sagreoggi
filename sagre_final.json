@@ -1,0 +1,380 @@
+[
+  {
+    "nome": "Sagra del Pinzino e Arrosticino",
+    "citta": "Ferrara",
+    "provincia": "FE",
+    "date": "27 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa del Patrono di Sant'Agostino",
+    "citta": "Sant'Agostino di Terre del Reno",
+    "provincia": "FE",
+    "date": "27 - 25 Agosto 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra del Cotechino",
+    "citta": "Alberone di Cento",
+    "provincia": "FE",
+    "date": "28 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra della Bistecca",
+    "citta": "Badia al Pino",
+    "provincia": "AR",
+    "date": "28 - 25 Agosto 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra dell'Ortica di Malalbergo",
+    "citta": "Malalbergo",
+    "provincia": "BO",
+    "date": "28 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Fiera Nazionale del Peperone di Carmagnola",
+    "citta": "Carmagnola",
+    "provincia": "TO",
+    "date": "29 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa della Tagliatella",
+    "citta": "Cavezzo",
+    "provincia": "MO",
+    "date": "29 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra della Tagliatella Finalese",
+    "citta": "Finale Emilia",
+    "provincia": "MO",
+    "date": "29 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra d'Estate",
+    "citta": "Serravalle di Riva del Po",
+    "provincia": "FE",
+    "date": "29 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra dell'Anatra",
+    "citta": "Stellata di Bondeno",
+    "provincia": "FE",
+    "date": "29 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa dal Figh ad Figarol",
+    "citta": "Ficarolo",
+    "provincia": "RO",
+    "date": "30 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra del Tartufo di Sant’Agostino",
+    "citta": "Sant'Agostino di Terre del Reno",
+    "provincia": "FE",
+    "date": "3 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa del Bo'",
+    "citta": "Cervarese Santa Croce",
+    "provincia": "PD",
+    "date": "4 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Birra e Tartufo",
+    "citta": "Borgofranco sul Po di Borgocarbonara",
+    "provincia": "MN",
+    "date": "5 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra del Garganello",
+    "citta": "Codrignano di Borgo Tossignano",
+    "provincia": "BO",
+    "date": "5 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Arrosticini nel Chiostro",
+    "citta": "Ferrara",
+    "provincia": "FE",
+    "date": "5 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra della Bondiola",
+    "citta": "Poggio Renatico",
+    "provincia": "FE",
+    "date": "5 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Fiera di Runzi ''S.S. Nome di Maria'' - Sagra del Somarino",
+    "citta": "Runzi di Bagnolo di Po",
+    "provincia": "RO",
+    "date": "5 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra del Tortellone - Festa della Madonna della Cintura",
+    "citta": "Farneto di San Lazzaro di Savena",
+    "provincia": "BO",
+    "date": "6 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Nuova Sagra dell'Ovo Casarino",
+    "citta": "Longara di Calderara di Reno",
+    "provincia": "BO",
+    "date": "6 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Magnalonga settembrina",
+    "citta": "Negrar di Valpolicella",
+    "provincia": "VR",
+    "date": "7 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra di Staggia",
+    "citta": "Staggia di San Prospero",
+    "provincia": "MO",
+    "date": "12 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra dello Storione",
+    "citta": "Casumaro",
+    "provincia": "FE",
+    "date": "13 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra dal Caplaz",
+    "citta": "Scortichino di Bondeno",
+    "provincia": "FE",
+    "date": "13 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra Salamina da Sugo al Cucchiaio di Madonna Boschi",
+    "citta": "Madonna Boschi di Poggio Renatico",
+    "provincia": "FE",
+    "date": "19 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa dei Sapori e delle Tradizioni",
+    "citta": "Terrassa Padovana",
+    "provincia": "PD",
+    "date": "19 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa dell'Equino e delle Tradizioni",
+    "citta": "Massa Finalese di Finale Emilia",
+    "provincia": "MO",
+    "date": "25 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa del Cappelletto d'Autunno",
+    "citta": "Vigarano Pieve",
+    "provincia": "FE",
+    "date": "25 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Emilia Food Fest",
+    "citta": "Carpi",
+    "provincia": "MO",
+    "date": "26 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra dell'Anguilla",
+    "citta": "Comacchio",
+    "provincia": "FE",
+    "date": "27 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Fuoco alle polveri",
+    "citta": "Crevalcore",
+    "provincia": "BO",
+    "date": "27 - 25 Settembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Fiera di Santa Sofia",
+    "citta": "Canaro",
+    "provincia": "RO",
+    "date": "30 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra del Tortellone d'Autunno",
+    "citta": "Bevilacqua di Crevalcore",
+    "provincia": "BO",
+    "date": "2 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Palio del Maccherone al Pettine delle Valli Mirandolesi",
+    "citta": "Mirandola",
+    "provincia": "MO",
+    "date": "2 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Fiera Nazionale del Tartufo Bianco di Borgofranco sul Po",
+    "citta": "Borgofranco sul Po di Borgocarbonara",
+    "provincia": "MN",
+    "date": "3 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra del Radicchio di Bosco",
+    "citta": "Bosco Mesola",
+    "provincia": "FE",
+    "date": "3 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa della Lumaca d'Autunno",
+    "citta": "Casumaro di Cento",
+    "provincia": "FE",
+    "date": "3 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa del Salame",
+    "citta": "Cremona",
+    "provincia": "CR",
+    "date": "3 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra del Bollito",
+    "citta": "San Pietro in Casale",
+    "provincia": "BO",
+    "date": "9 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Gran Galà del Tortél Dols di Colorno",
+    "citta": "Colorno",
+    "provincia": "PR",
+    "date": "11 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sbrisolona & Co",
+    "citta": "Mantova",
+    "provincia": "MN",
+    "date": "17 - 25 Ottobre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sciocolà",
+    "citta": "Modena",
+    "provincia": "MO",
+    "date": "30 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Ferrara Food Festival",
+    "citta": "Ferrara",
+    "provincia": "FE",
+    "date": "31 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra della Zucca e del suo Cappellaccio Ferrarese I.G.P. Sapori d'Autunno",
+    "citta": "San Carlo di Terre del Reno",
+    "provincia": "FE",
+    "date": "31 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Tartufesta del Po",
+    "citta": "Carbonara di Po di Borgocarbonara",
+    "provincia": "MN",
+    "date": "1 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Novemberfest",
+    "citta": "Bevilacqua di Crevalcore",
+    "provincia": "BO",
+    "date": "7 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra del Tartufo",
+    "citta": "Casumaro",
+    "provincia": "FE",
+    "date": "7 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra del Tuber Magnatum Pico del Bosco della Panfilia",
+    "citta": "Sant'Agostino di Terre del Reno",
+    "provincia": "FE",
+    "date": "7 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Festa del Torrone",
+    "citta": "Cremona",
+    "provincia": "CR",
+    "date": "8 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Astro Gastro d'Autunno",
+    "citta": "Bondeno",
+    "provincia": "FE",
+    "date": "14 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sagra delle Rane d'Autunno",
+    "citta": "Poggio Renatico",
+    "provincia": "FE",
+    "date": "14 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "Sweet Pampepato",
+    "citta": "Terni",
+    "provincia": "TR",
+    "date": "21 - 25 Novembre 2025",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "6 Giorni del Cotechino",
+    "citta": "Alberone di Cento",
+    "provincia": "FE",
+    "date": "6 - 26 Febbraio 2026",
+    "fonte": "Assosagre"
+  },
+  {
+    "nome": "",
+    "citta": "",
+    "provincia": "",
+    "date": "",
+    "fonte": "Sagritaly"
+  }
+]
