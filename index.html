@@ -46,19 +46,29 @@
     text-decoration: none;
     transition: color 0.5s;
   }
+/* Desktop */
+#tutteContainer {
+  display: none;
+  flex: 1;
+  width: 60%;
+  overflow-y: auto;
+  text-align: left;
+}
+#tutteContainer div {
+  font-size: 5vw;
+  line-height: 5vw;
+  margin-bottom: 1em;
+  text-align: center;
+  white-space: pre-line;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
   #tutteContainer {
-    display: none;
-    flex: 1;
-    width: 60%;
-    overflow-y: auto;
-    text-align: left;
+    width: 90%; /* più largo su mobile */
   }
-  #tutteContainer div {
-    font-size: 5vw;
-    line-height: 5vw;
-    margin-bottom: 1em;
-    text-align: center;
-  }
+}
+
 </style>
 </head>
 <body id="body">
@@ -178,18 +188,28 @@ function mostraSagra() {
 function mostraLista() {
   inLista = true;
   sagraBox.style.display = "none";
-  tutteContainer.style.display = "block";
+  tutteContainer.style.display = "flex"; // flex per il column layout
   tutteContainer.innerHTML = "";
 
   const attive = getAttive();
-  if(attive.length === 0) {
-    tutteContainer.innerHTML = "<div>Oggi niente sagra :'(</div>";
+  if (attive.length === 0) {
+    const noDiv = document.createElement("div");
+    noDiv.textContent = "Oggi niente sagra :'(";
+    noDiv.style.fontSize = "5vw";
+    noDiv.style.textAlign = "center";
+    tutteContainer.appendChild(noDiv);
     return;
   }
 
   attive.forEach(s => {
     const el = document.createElement("div");
-    el.textContent = `${s.nome} — ${s.date} — ${s.citta} (${s.provincia})`;
+    el.style.fontSize = "5vw";
+    el.style.lineHeight = "5vw";
+    el.style.marginBottom = "1em";
+    el.style.textAlign = "center";
+
+    // Nome, Data e Città/Provincia a capo
+    el.textContent = `${s.nome}\n${s.date}\n${s.citta} (${s.provincia})`;
     tutteContainer.appendChild(el);
   });
 }
