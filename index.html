@@ -111,16 +111,22 @@ function parseDate(str) {
     "Gennaio":0,"Febbraio":1,"Marzo":2,"Aprile":3,"Maggio":4,"Giugno":5,
     "Luglio":6,"Agosto":7,"Settembre":8,"Ottobre":9,"Novembre":10,"Dicembre":11
   };
-  const parts = str.trim().split(" ");
-  if(parts.length < 3) return null;
-  const giornoRange = parts[0].split("-");
-  const mese = months[parts[1]];
-  const anno = parseInt(parts[2]);
+
+  // regex robusta: "24-26 Agosto 2025" oppure "26 Agosto 2025"
+  const m = str.trim().match(/^(\d{1,2})(?:-(\d{1,2}))?\s+([A-Za-zÀ-ÿ]+)\s+(\d{4})$/);
+  if (!m) return null;
+
+  const giornoStart = parseInt(m[1], 10);
+  const giornoEnd = m[2] ? parseInt(m[2], 10) : giornoStart;
+  const mese = months[m[3]];
+  const anno = parseInt(m[4], 10);
+
   return {
-    start: new Date(anno, mese, parseInt(giornoRange[0])),
-    end: new Date(anno, mese, parseInt(giornoRange[giornoRange.length-1]))
+    start: new Date(anno, mese, giornoStart),
+    end: new Date(anno, mese, giornoEnd)
   };
 }
+
 
 function getAttive() {
   const oggi = new Date();
