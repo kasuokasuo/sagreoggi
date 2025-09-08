@@ -66,7 +66,14 @@
     white-space: pre-line;
     word-wrap: break-word;
   }
-
+  .hide-scrollbar {
+    overflow-y: scroll; /* mantiene lo scroll verticale */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE 10+ */
+  }
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
   /* Mobile */
   @media (max-width: 768px) {
     #tutteContainer {
@@ -82,7 +89,7 @@
     <div class="citta"></div>
   </div>
   
-  <div id="tutteContainer"></div>
+  <div id="tutteContainer" class="hide-scrollbar"></div>
 
   <div class="buttons">
     <a 
