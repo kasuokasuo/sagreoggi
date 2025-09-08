@@ -89,6 +89,7 @@ const cittaEl = document.querySelector(".citta");
 const plusBtn = document.getElementById("plusSagra");
 const tutteBtn = document.getElementById("tutteBtn");
 const tutteContainer = document.getElementById("tutteContainer");
+const sagraBox = document.getElementById("sagra");
 
 let sagre = [];
 
@@ -134,7 +135,6 @@ function mostraSagra() {
   if (inLista) return; // non cambiare se in vista lista
 
   const attive = getAttive();
-
   if(attive.length === 0) {
     nomeEl.textContent = "Oggi niente sagra :'(";
     dateEl.textContent = "";
@@ -170,12 +170,11 @@ function mostraSagra() {
 
 function mostraLista() {
   inLista = true;
-  document.getElementById("sagra").style.display = "none";
+  sagraBox.style.display = "none";
   tutteContainer.style.display = "block";
   tutteContainer.innerHTML = "";
 
   const attive = getAttive();
-
   if(attive.length === 0) {
     tutteContainer.innerHTML = "<div>Oggi niente sagra :'("</div>";
     return;
@@ -189,10 +188,13 @@ function mostraLista() {
 }
 
 function tornaSingola() {
-  if (!inLista) return;
+  if (!inLista) {
+    mostraSagra(); // se già in singola, cambia sagra
+    return;
+  }
   inLista = false;
   tutteContainer.style.display = "none";
-  document.getElementById("sagra").style.display = "flex";
+  sagraBox.style.display = "flex";
   mostraSagra();
 }
 
@@ -209,8 +211,15 @@ fetch(JSON_URL)
   });
 
 // eventi
-document.getElementById("body").addEventListener("click", tornaSingola);
-tutteBtn.addEventListener("click", mostraLista);
+document.body.addEventListener("click", e => {
+  // ignora click sui pulsanti
+  if (e.target === plusBtn || e.target === tutteBtn) return;
+  tornaSingola();
+});
+tutteBtn.addEventListener("click", e => {
+  e.stopPropagation();
+  mostraLista();
+});
 </script>
 </body>
 </html>
