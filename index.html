@@ -161,13 +161,13 @@ function parseDate(str) {
 }
 
 function getAttive() {
-  const oggi = new Date();
+  const oggi = new Date().toISOString().slice(0, 10); // formato YYYY-MM-DD
   return sagre.filter(s => {
-    const range = parseDate(s.date);
-    if(!range) return false;
-    return oggi >= range.start && oggi <= range.end;
+    if (!s.start || !s.end) return false;
+    return oggi >= s.start && oggi <= s.end;
   });
 }
+
 
 function mostraSagra() {
   if (inLista) return;
