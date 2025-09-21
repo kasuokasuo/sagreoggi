@@ -69,6 +69,10 @@ def format_date(start, end):
     except Exception:
         return ""
 
+    # stessa data
+    if start_dt == end_dt:
+        return f"{start_dt.day} {months[start_dt.month-1]} {start_dt.year}"
+
     # stesso anno e mese
     if start_dt.year == end_dt.year and start_dt.month == end_dt.month:
         return f"{start_dt.day}-{end_dt.day} {months[start_dt.month-1]} {start_dt.year}"
