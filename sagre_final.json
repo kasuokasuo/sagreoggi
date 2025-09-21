@@ -1,380 +1,3274 @@
 [
   {
-    "nome": "Sagra del Pinzino e Arrosticino",
-    "citta": "Ferrara",
-    "provincia": "FE",
-    "date": "27 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra del cinghiale",
+    "date": "30 Maggio 2025 - 02 Novembre 2025",
+    "start": "2025-05-30",
+    "end": "2025-11-02",
+    "citta": "Dugenta (BN)",
+    "provincia": "BN"
   },
   {
-    "nome": "Festa del Patrono di Sant'Agostino",
-    "citta": "Sant'Agostino di Terre del Reno",
-    "provincia": "FE",
-    "date": "27 - 25 Agosto 2025",
-    "fonte": "Assosagre"
+    "nome": "Cheese FestiVal di sole",
+    "date": "06 Settembre 2025 - 22 Settembre 2025",
+    "start": "2025-09-06",
+    "end": "2025-09-22",
+    "citta": "Malé (TN)",
+    "provincia": "TN"
   },
   {
-    "nome": "Sagra del Cotechino",
-    "citta": "Alberone di Cento",
-    "provincia": "FE",
-    "date": "28 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa dell’uva",
+    "date": "07 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-07",
+    "end": "2025-09-28",
+    "citta": "Gropparello (PC)",
+    "provincia": "PC"
   },
   {
-    "nome": "Sagra della Bistecca",
-    "citta": "Badia al Pino",
-    "provincia": "AR",
-    "date": "28 - 25 Agosto 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa del porcino mostra mercato",
+    "date": "10 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-10",
+    "end": "2025-09-21",
+    "citta": "Lariano (RM)",
+    "provincia": "RM"
   },
   {
-    "nome": "Sagra dell'Ortica di Malalbergo",
-    "citta": "Malalbergo",
-    "provincia": "BO",
-    "date": "28 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra dea sbrisa",
+    "date": "12 Settembre 2025 - 23 Settembre 2025",
+    "start": "2025-09-12",
+    "end": "2025-09-23",
+    "citta": "Venezia (VE)",
+    "provincia": "VE"
   },
   {
-    "nome": "Fiera Nazionale del Peperone di Carmagnola",
-    "citta": "Carmagnola",
-    "provincia": "TO",
-    "date": "29 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra della cotoletta mirabellese",
+    "date": "12 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-12",
+    "end": "2025-09-28",
+    "citta": "Mirabello (MO)",
+    "provincia": "MO"
   },
   {
-    "nome": "Festa della Tagliatella",
-    "citta": "Cavezzo",
-    "provincia": "MO",
-    "date": "29 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa dea poenta",
+    "date": "12 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-12",
+    "end": "2025-09-28",
+    "citta": "Castelminio (TV)",
+    "provincia": "TV"
   },
   {
-    "nome": "Sagra della Tagliatella Finalese",
-    "citta": "Finale Emilia",
-    "provincia": "MO",
-    "date": "29 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa dei funghi e dell’ambiente",
+    "date": "12 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-12",
+    "end": "2025-09-21",
+    "citta": "Budoia (PN)",
+    "provincia": "PN"
   },
   {
-    "nome": "Sagra d'Estate",
-    "citta": "Serravalle di Riva del Po",
-    "provincia": "FE",
-    "date": "29 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra Poenta e Osei",
+    "date": "12 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-12",
+    "end": "2025-09-28",
+    "citta": "Pramaggiore Blessaglia (VE)",
+    "provincia": "VE"
   },
   {
-    "nome": "Sagra dell'Anatra",
-    "citta": "Stellata di Bondeno",
-    "provincia": "FE",
-    "date": "29 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra del Grappolo D’Oro",
+    "date": "12 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-12",
+    "end": "2025-09-21",
+    "citta": "Potenza Picena (MC)",
+    "provincia": "MC"
   },
   {
-    "nome": "Festa dal Figh ad Figarol",
-    "citta": "Ficarolo",
-    "provincia": "RO",
-    "date": "30 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra Levà",
+    "date": "12 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-12",
+    "end": "2025-09-21",
+    "citta": "Levà (VI)",
+    "provincia": "VI"
   },
   {
-    "nome": "Sagra del Tartufo di Sant’Agostino",
-    "citta": "Sant'Agostino di Terre del Reno",
-    "provincia": "FE",
-    "date": "3 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra dello storione e pesce di mare",
+    "date": "13 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-13",
+    "end": "2025-09-21",
+    "citta": "Casumaro (FE)",
+    "provincia": "FE"
   },
   {
-    "nome": "Festa del Bo'",
-    "citta": "Cervarese Santa Croce",
-    "provincia": "PD",
-    "date": "4 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra della polenta, funghi porcini e cinghiale",
+    "date": "13 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-13",
+    "end": "2025-09-21",
+    "citta": "Poggio Alla Malva (FI)",
+    "provincia": "FI"
   },
   {
-    "nome": "Birra e Tartufo",
-    "citta": "Borgofranco sul Po di Borgocarbonara",
-    "provincia": "MN",
-    "date": "5 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra della polenta e dei frutti del sottobosco",
+    "date": "14 Settembre 2025 - 05 Ottobre 2025",
+    "start": "2025-09-14",
+    "end": "2025-10-05",
+    "citta": "Perticara (RN)",
+    "provincia": "RN"
   },
   {
-    "nome": "Sagra del Garganello",
-    "citta": "Codrignano di Borgo Tossignano",
-    "provincia": "BO",
-    "date": "5 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa dell’uva",
+    "date": "17 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-17",
+    "end": "2025-09-21",
+    "citta": "Castellarano (RE)",
+    "provincia": "RE"
   },
   {
-    "nome": "Arrosticini nel Chiostro",
-    "citta": "Ferrara",
-    "provincia": "FE",
-    "date": "5 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra Della Nana",
+    "date": "17 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-17",
+    "end": "2025-09-28",
+    "citta": "Montagnano (RN)",
+    "provincia": "RN"
   },
   {
-    "nome": "Sagra della Bondiola",
-    "citta": "Poggio Renatico",
-    "provincia": "FE",
-    "date": "5 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Roma Baccalà",
+    "date": "18 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-18",
+    "end": "2025-09-21",
+    "citta": "Roma (RM)",
+    "provincia": "RM"
   },
   {
-    "nome": "Fiera di Runzi ''S.S. Nome di Maria'' - Sagra del Somarino",
-    "citta": "Runzi di Bagnolo di Po",
-    "provincia": "RO",
-    "date": "5 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festival del bacalà alla vincentina",
+    "date": "18 Settembre 2025 - 29 Settembre 2025",
+    "start": "2025-09-18",
+    "end": "2025-09-29",
+    "citta": "Sandrigo (VI)",
+    "provincia": "VI"
   },
   {
-    "nome": "Sagra del Tortellone - Festa della Madonna della Cintura",
-    "citta": "Farneto di San Lazzaro di Savena",
-    "provincia": "BO",
-    "date": "6 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa del Pistacchio di Raffadali DOP",
+    "date": "18 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-18",
+    "end": "2025-09-21",
+    "citta": "Raffadali (AG)",
+    "provincia": "AG"
   },
   {
-    "nome": "Nuova Sagra dell'Ovo Casarino",
-    "citta": "Longara di Calderara di Reno",
-    "provincia": "BO",
-    "date": "6 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra del riso del delta del po",
+    "date": "18 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-18",
+    "end": "2025-09-21",
+    "citta": "Porto Tolle (RO)",
+    "provincia": "RO"
   },
   {
-    "nome": "Magnalonga settembrina",
-    "citta": "Negrar di Valpolicella",
-    "provincia": "VR",
-    "date": "7 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra del Caciocavallo",
+    "date": "18 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-18",
+    "end": "2025-09-21",
+    "citta": "Castelfranco In Miscano (BN)",
+    "provincia": "BN"
   },
   {
-    "nome": "Sagra di Staggia",
-    "citta": "Staggia di San Prospero",
-    "provincia": "MO",
-    "date": "12 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra del Risotto",
+    "date": "18 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-18",
+    "end": "2025-09-21",
+    "citta": "Cergnago (PV)",
+    "provincia": "PV"
   },
   {
-    "nome": "Sagra dello Storione",
-    "citta": "Casumaro",
-    "provincia": "FE",
-    "date": "13 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa del pane casareccio IGP",
+    "date": "18 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-18",
+    "end": "2025-09-21",
+    "citta": "Genzano di Roma (RM)",
+    "provincia": "RM"
   },
   {
-    "nome": "Sagra dal Caplaz",
-    "citta": "Scortichino di Bondeno",
-    "provincia": "FE",
-    "date": "13 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra del pesce",
+    "date": "19 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-21",
+    "citta": "Pioppi (SA)",
+    "provincia": "SA"
   },
   {
-    "nome": "Sagra Salamina da Sugo al Cucchiaio di Madonna Boschi",
-    "citta": "Madonna Boschi di Poggio Renatico",
-    "provincia": "FE",
-    "date": "19 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra dei funghi",
+    "date": "19 Settembre 2025 - 12 Ottobre 2025",
+    "start": "2025-09-19",
+    "end": "2025-10-12",
+    "citta": "Cusano Mutri (BN)",
+    "provincia": "BN"
   },
   {
-    "nome": "Festa dei Sapori e delle Tradizioni",
-    "citta": "Terrassa Padovana",
-    "provincia": "PD",
-    "date": "19 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra del fungo porcino",
+    "date": "19 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-28",
+    "citta": "Castelpagano (BN)",
+    "provincia": "BN"
   },
   {
-    "nome": "Festa dell'Equino e delle Tradizioni",
-    "citta": "Massa Finalese di Finale Emilia",
-    "provincia": "MO",
-    "date": "25 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra della salamina da sugo al cucchiaio",
+    "date": "19 Settembre 2025 - 05 Ottobre 2025",
+    "start": "2025-09-19",
+    "end": "2025-10-05",
+    "citta": "Poggio Renatico (FE)",
+    "provincia": "FE"
   },
   {
-    "nome": "Festa del Cappelletto d'Autunno",
-    "citta": "Vigarano Pieve",
-    "provincia": "FE",
-    "date": "25 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa del Vino del Monferrato Unesco",
+    "date": "19 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-28",
+    "citta": "Casale Monferrato (AL)",
+    "provincia": "AL"
   },
   {
-    "nome": "Emilia Food Fest",
-    "citta": "Carpi",
-    "provincia": "MO",
-    "date": "26 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Fiera del riso",
+    "date": "19 Settembre 2025 - 12 Ottobre 2025",
+    "start": "2025-09-19",
+    "end": "2025-10-12",
+    "citta": "Isola della Scala (VR)",
+    "provincia": "VR"
   },
   {
-    "nome": "Sagra dell'Anguilla",
-    "citta": "Comacchio",
-    "provincia": "FE",
-    "date": "27 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa dei sapori e delle tradizioni",
+    "date": "19 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-21",
+    "citta": "Terrassa Padovana (PD)",
+    "provincia": "PD"
   },
   {
-    "nome": "Fuoco alle polveri",
-    "citta": "Crevalcore",
-    "provincia": "BO",
-    "date": "27 - 25 Settembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festival del puzzone di Moena",
+    "date": "19 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-21",
+    "citta": "Moena (TN)",
+    "provincia": "TN"
   },
   {
-    "nome": "Fiera di Santa Sofia",
-    "citta": "Canaro",
-    "provincia": "RO",
-    "date": "30 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Cous Cous fest",
+    "date": "19 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-28",
+    "citta": "San Vito Lo Capo (TP)",
+    "provincia": "TP"
   },
   {
-    "nome": "Sagra del Tortellone d'Autunno",
-    "citta": "Bevilacqua di Crevalcore",
-    "provincia": "BO",
-    "date": "2 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "A tavola nel Feltrino: il fagiolo",
+    "date": "19 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-21",
+    "citta": "Lamon (BL)",
+    "provincia": "BL"
   },
   {
-    "nome": "Palio del Maccherone al Pettine delle Valli Mirandolesi",
-    "citta": "Mirandola",
-    "provincia": "MO",
-    "date": "2 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Bra’s – Il festival della salsiccia, del formaggio, del pane e del riso di Bra",
+    "date": "19 Settembre 2025 - 22 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-22",
+    "citta": "Bra (CN)",
+    "provincia": "CN"
   },
   {
-    "nome": "Fiera Nazionale del Tartufo Bianco di Borgofranco sul Po",
-    "citta": "Borgofranco sul Po di Borgocarbonara",
-    "provincia": "MN",
-    "date": "3 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa della zucca",
+    "date": "19 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-28",
+    "citta": "Ghizzole (PR)",
+    "provincia": "PR"
   },
   {
-    "nome": "Sagra del Radicchio di Bosco",
-    "citta": "Bosco Mesola",
-    "provincia": "FE",
-    "date": "3 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa del baccalà",
+    "date": "19 Settembre 2025 - 05 Ottobre 2025",
+    "start": "2025-09-19",
+    "end": "2025-10-05",
+    "citta": "Robegano (VE)",
+    "provincia": "VE"
   },
   {
-    "nome": "Festa della Lumaca d'Autunno",
-    "citta": "Casumaro di Cento",
-    "provincia": "FE",
-    "date": "3 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa di San Michele",
+    "date": "19 Settembre 2025 - 29 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-29",
+    "citta": "Quarto d'Altino (VE)",
+    "provincia": "VE"
   },
   {
-    "nome": "Festa del Salame",
-    "citta": "Cremona",
-    "provincia": "CR",
-    "date": "3 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra della patata",
+    "date": "19 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-21",
+    "citta": "Villastellone (TO)",
+    "provincia": "TO"
   },
   {
-    "nome": "Sagra del Bollito",
-    "citta": "San Pietro in Casale",
-    "provincia": "BO",
-    "date": "9 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra del Coniglio ripieno e Focaccia di patate",
+    "date": "19 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-21",
+    "citta": "Casamassima (BA)",
+    "provincia": "BA"
   },
   {
-    "nome": "Gran Galà del Tortél Dols di Colorno",
-    "citta": "Colorno",
-    "provincia": "PR",
-    "date": "11 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa dell’uva Soave",
+    "date": "19 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-21",
+    "citta": "Soave (VR)",
+    "provincia": "VR"
   },
   {
-    "nome": "Sbrisolona & Co",
-    "citta": "Mantova",
-    "provincia": "MN",
-    "date": "17 - 25 Ottobre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa del pesce",
+    "date": "19 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-28",
+    "citta": "Caorle (VE)",
+    "provincia": "VE"
   },
   {
-    "nome": "Sciocolà",
-    "citta": "Modena",
-    "provincia": "MO",
-    "date": "30 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra de caplet",
+    "date": "19 Settembre 2025 - 22 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-22",
+    "citta": "Porto Fuori (RA)",
+    "provincia": "RA"
   },
   {
-    "nome": "Ferrara Food Festival",
-    "citta": "Ferrara",
-    "provincia": "FE",
-    "date": "31 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa del riso",
+    "date": "19 Settembre 2025 - 23 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-23",
+    "citta": "Grumolo delle Abbadesse (VI)",
+    "provincia": "VI"
   },
   {
-    "nome": "Sagra della Zucca e del suo Cappellaccio Ferrarese I.G.P. Sapori d'Autunno",
-    "citta": "San Carlo di Terre del Reno",
-    "provincia": "FE",
-    "date": "31 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra della patata di montagna",
+    "date": "19 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-21",
+    "citta": "Muro Lucano (PZ)",
+    "provincia": "PZ"
   },
   {
-    "nome": "Tartufesta del Po",
-    "citta": "Carbonara di Po di Borgocarbonara",
-    "provincia": "MN",
-    "date": "1 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa del fungo e del palio del fungaiolo",
+    "date": "19 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-21",
+    "citta": "San Giorgio Piacentino (PC)",
+    "provincia": "PC"
   },
   {
-    "nome": "Novemberfest",
-    "citta": "Bevilacqua di Crevalcore",
-    "provincia": "BO",
-    "date": "7 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Festa della patata americana",
+    "date": "19 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-19",
+    "end": "2025-09-28",
+    "citta": "Anguillara Veneta (PD)",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Sagra nazionale del gorgonzola",
+    "date": "20 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-21",
+    "citta": "Gorgonzola (MI)",
+    "provincia": "MI"
+  },
+  {
+    "nome": "Fiera del fungo di Borgotaro",
+    "date": "20 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-28",
+    "citta": "Borgo Val di Taro (PR)",
+    "provincia": "PR"
+  },
+  {
+    "nome": "Sagra dell’uva",
+    "date": "20 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-21",
+    "citta": "Galluccio (CE)",
+    "provincia": "CE"
+  },
+  {
+    "nome": "Sagra dell’ocio",
+    "date": "20 Settembre 2025 - 29 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-29",
+    "citta": "Montepulciano Stazione (SI)",
+    "provincia": "SI"
+  },
+  {
+    "nome": "Sagra del Bitto",
+    "date": "20 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-21",
+    "citta": "Gerola Alta (SO)",
+    "provincia": "SO"
+  },
+  {
+    "nome": "Festa del Vino Cotto",
+    "date": "20 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-21",
+    "citta": "Lapedona (FM)",
+    "provincia": "FM"
+  },
+  {
+    "nome": "Sagra dello stoccafisso",
+    "date": "20 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-21",
+    "citta": "Badalucco (IM)",
+    "provincia": "IM"
+  },
+  {
+    "nome": "Festa dell’uva e dei vini",
+    "date": "20 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-21",
+    "citta": "Velletri (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Fiera della cipolla bionda di Cureggio e Fontaneto",
+    "date": "20 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-21",
+    "citta": "Fontaneto D'agogna (NO)",
+    "provincia": "NO"
+  },
+  {
+    "nome": "Sagra dell’Uva e del Lambrusco Grasparossa",
+    "date": "20 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-28",
+    "citta": "Castelvetro di Modena (MO)",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Sagra del Cuzzetiello",
+    "date": "20 Settembre 2025 - 21 Settembre 2025",
+    "start": "2025-09-20",
+    "end": "2025-09-21",
+    "citta": "Domicella (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Sagra della schiacciata",
+    "date": "21 Settembre 2025",
+    "start": "2025-09-21",
+    "end": "2025-09-21",
+    "citta": "Bivigliano (FI)",
+    "provincia": "FI"
+  },
+  {
+    "nome": "Sagra del Bombolone",
+    "date": "21 Settembre 2025",
+    "start": "2025-09-21",
+    "end": "2025-09-21",
+    "citta": "La Rotta (PI)",
+    "provincia": "PI"
+  },
+  {
+    "nome": "Mostra della razza Cabannina",
+    "date": "21 Settembre 2025",
+    "start": "2025-09-21",
+    "end": "2025-09-21",
+    "citta": "Rezzoaglio (GE)",
+    "provincia": "GE"
+  },
+  {
+    "nome": "Sagra del tomino",
+    "date": "21 Settembre 2025",
+    "start": "2025-09-21",
+    "end": "2025-09-21",
+    "citta": "Rivalta di Torino (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Festa del vino e dell’uva",
+    "date": "21 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-21",
+    "end": "2025-09-28",
+    "citta": "Carema (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra della patata di montagna e dei prodotti tipici",
+    "date": "21 Settembre 2025",
+    "start": "2025-09-21",
+    "end": "2025-09-21",
+    "citta": "Sauze d'Oulx (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Festa dell’amaretto di Sassello",
+    "date": "21 Settembre 2025",
+    "start": "2025-09-21",
+    "end": "2025-09-21",
+    "citta": "Sassello (SV)",
+    "provincia": "SV"
+  },
+  {
+    "nome": "Sagra dei maccheroni con il coniglio",
+    "date": "23 Settembre 2025",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "citta": "Agira (EN)",
+    "provincia": "EN"
+  },
+  {
+    "nome": "Féta di Resèn – Festa dell’uva",
+    "date": "24 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-24",
+    "end": "2025-09-28",
+    "citta": "Chambave (AO)",
+    "provincia": "AO"
+  },
+  {
+    "nome": "Sagra della patata",
+    "date": "25 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-25",
+    "end": "2025-09-28",
+    "citta": "Lazzate (MB)",
+    "provincia": "MB"
+  },
+  {
+    "nome": "Sagra della cucina piemontese",
+    "date": "25 Settembre 2025 - 29 Settembre 2025",
+    "start": "2025-09-25",
+    "end": "2025-09-29",
+    "citta": "Volpiano (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra della vendemmia",
+    "date": "25 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-25",
+    "end": "2025-09-28",
+    "citta": "Pedalino (RG)",
+    "provincia": "RG"
+  },
+  {
+    "nome": "Fiera del Casoncello di Barbariga",
+    "date": "25 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-25",
+    "end": "2025-09-28",
+    "citta": "Barbariga (BS)",
+    "provincia": "BS"
+  },
+  {
+    "nome": "Gusti di frontiera",
+    "date": "25 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-25",
+    "end": "2025-09-28",
+    "citta": "Gorizia (GO)",
+    "provincia": "GO"
+  },
+  {
+    "nome": "Sagra del miele",
+    "date": "26 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-26",
+    "end": "2025-09-28",
+    "citta": "Sortino (SR)",
+    "provincia": "SR"
+  },
+  {
+    "nome": "Sagra della zampina, del bocconcino e del buon vino",
+    "date": "26 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-26",
+    "end": "2025-09-28",
+    "citta": "Sammichele di Bari (BA)",
+    "provincia": "BA"
+  },
+  {
+    "nome": "Festa dell’uva",
+    "date": "26 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-26",
+    "end": "2025-09-28",
+    "citta": "Verla (BL)",
+    "provincia": "BL"
+  },
+  {
+    "nome": "Festa dell’uva",
+    "date": "26 Settembre 2025 - 27 Settembre 2025",
+    "start": "2025-09-26",
+    "end": "2025-09-27",
+    "citta": "Fonzaso (BL)",
+    "provincia": "BL"
+  },
+  {
+    "nome": "Mostra regionale della mela",
+    "date": "26 Settembre 2025 - 05 Ottobre 2025",
+    "start": "2025-09-26",
+    "end": "2025-10-05",
+    "citta": "Pantianicco (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Festa dell’Uva e del Recioto",
+    "date": "26 Settembre 2025 - 29 Settembre 2025",
+    "start": "2025-09-26",
+    "end": "2025-09-29",
+    "citta": "Gambellara (VI)",
+    "provincia": "VI"
+  },
+  {
+    "nome": "Sagra della nocciola",
+    "date": "26 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-26",
+    "end": "2025-09-28",
+    "citta": "Prepezzano (CS)",
+    "provincia": "CS"
+  },
+  {
+    "nome": "Festa dell’uva e del vino",
+    "date": "26 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-26",
+    "end": "2025-09-28",
+    "citta": "Chiusi (SI)",
+    "provincia": "SI"
+  },
+  {
+    "nome": "La macenata",
+    "date": "26 Settembre 2025 - 04 Ottobre 2025",
+    "start": "2025-09-26",
+    "end": "2025-10-04",
+    "citta": "Paternopoli (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Lignano Tuna Festival",
+    "date": "26 Settembre 2025 - 05 Ottobre 2025",
+    "start": "2025-09-26",
+    "end": "2025-10-05",
+    "citta": "Lignano Sabbiadoro (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Festa del bisonte con polenta",
+    "date": "26 Settembre 2025 - 05 Ottobre 2025",
+    "start": "2025-09-26",
+    "end": "2025-10-05",
+    "citta": "Ronchis (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Sagra dell’uva di San Cesareo",
+    "date": "26 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-26",
+    "end": "2025-09-28",
+    "citta": "San Cesareo (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Sagra del Gorgonzola",
+    "date": "26 Settembre 2025 - 05 Ottobre 2025",
+    "start": "2025-09-26",
+    "end": "2025-10-05",
+    "citta": "Caronno Pertusella (VA)",
+    "provincia": "VA"
+  },
+  {
+    "nome": "La Zucca delle Meraviglie",
+    "date": "26 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-26",
+    "end": "2025-09-28",
+    "citta": "Piea (AT)",
+    "provincia": "AT"
+  },
+  {
+    "nome": "Du blé au pain",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "La Magdeleine (AO)",
+    "provincia": "AO"
+  },
+  {
+    "nome": "Sagra della bruschetta e dell’olio novo",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Montegiovi (GR)",
+    "provincia": "GR"
+  },
+  {
+    "nome": "Sagra dell’anguilla",
+    "date": "27 Settembre 2025 - 12 Ottobre 2025",
+    "start": "2025-09-27",
+    "end": "2025-10-12",
+    "citta": "Comacchio (FE)",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra dell’uva",
+    "date": "27 Settembre 2025 - 05 Ottobre 2025",
+    "start": "2025-09-27",
+    "end": "2025-10-05",
+    "citta": "Marino (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Festa della polenta",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Soragna (PR)",
+    "provincia": "PR"
+  },
+  {
+    "nome": "Sagra della patata",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Villabassa (BZ)",
+    "provincia": "BZ"
+  },
+  {
+    "nome": "Sagra dello zafferano",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Valguarnera Caropepe (EN)",
+    "provincia": "EN"
+  },
+  {
+    "nome": "Sagra dei prodotti tipici ceramesi “Pipi e Cavatieddi”",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Cerami (EN)",
+    "provincia": "EN"
+  },
+  {
+    "nome": "Sagra della polenta",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Apiro (MC)",
+    "provincia": "MC"
+  },
+  {
+    "nome": "Festa della mela",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Tolmezzo (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Sagra del Fungo Porcino",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Bagnara (RC)",
+    "provincia": "RC"
+  },
+  {
+    "nome": "Autunno in Barbagia",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Austis (NU)",
+    "provincia": "NU"
+  },
+  {
+    "nome": "Festa dello speck Alto Adige",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Brunico (BZ)",
+    "provincia": "BZ"
+  },
+  {
+    "nome": "Sagra del Savor",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Montegelli (AR)",
+    "provincia": "AR"
+  },
+  {
+    "nome": "Festa della Noce",
+    "date": "27 Settembre 2025 - 05 Ottobre 2025",
+    "start": "2025-09-27",
+    "end": "2025-10-05",
+    "citta": "Motta Camastra (ME)",
+    "provincia": "ME"
+  },
+  {
+    "nome": "Sagra della Lepre e del Cinghiale",
+    "date": "27 Settembre 2025 - 12 Ottobre 2025",
+    "start": "2025-09-27",
+    "end": "2025-10-12",
+    "citta": "Selvatelle (PI)",
+    "provincia": "PI"
+  },
+  {
+    "nome": "Sagra del Macagn",
+    "date": "27 Settembre 2025 - 28 Settembre 2025",
+    "start": "2025-09-27",
+    "end": "2025-09-28",
+    "citta": "Crocemosso (VC)",
+    "provincia": "VC"
+  },
+  {
+    "nome": "Sagra del salame d’oca di Mortara",
+    "date": "28 Settembre 2025",
+    "start": "2025-09-28",
+    "end": "2025-09-28",
+    "citta": "Mortara (PV)",
+    "provincia": "PV"
+  },
+  {
+    "nome": "Sagra degli Stigliozzi",
+    "date": "28 Settembre 2025",
+    "start": "2025-09-28",
+    "end": "2025-09-28",
+    "citta": "Castel di Tora (RI)",
+    "provincia": "RI"
+  },
+  {
+    "nome": "Sagra del pane",
+    "date": "28 Settembre 2025",
+    "start": "2025-09-28",
+    "end": "2025-09-28",
+    "citta": "Piobesi Torinese (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra della Patata",
+    "date": "28 Settembre 2025",
+    "start": "2025-09-28",
+    "end": "2025-09-28",
+    "citta": "Magnano (BI)",
+    "provincia": "BI"
+  },
+  {
+    "nome": "Festa del borgo e sagra del civraxiu",
+    "date": "28 Settembre 2025",
+    "start": "2025-09-28",
+    "end": "2025-09-28",
+    "citta": "Sanluri (SU)",
+    "provincia": "SU"
+  },
+  {
+    "nome": "Sagra dell’uva",
+    "date": "28 Settembre 2025",
+    "start": "2025-09-28",
+    "end": "2025-09-28",
+    "citta": "San Colombano al Lambro (MI)",
+    "provincia": "MI"
+  },
+  {
+    "nome": "Festa della patata naturale dell’Alto Astico e di Tonezza",
+    "date": "28 Settembre 2025 - 26 Ottobre 2025",
+    "start": "2025-09-28",
+    "end": "2025-10-26",
+    "citta": "Tonezza del Cimone (VI)",
+    "provincia": "VI"
+  },
+  {
+    "nome": "Sagra del radicchio",
+    "date": "30 Settembre 2025 - 06 Ottobre 2025",
+    "start": "2025-09-30",
+    "end": "2025-10-06",
+    "citta": "Bosco Mesola (FE)",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Festa dell’uva e del vino",
+    "date": "02 Ottobre 2025 - 06 Ottobre 2025",
+    "start": "2025-10-02",
+    "end": "2025-10-06",
+    "citta": "Bardolino (VR)",
+    "provincia": "VR"
+  },
+  {
+    "nome": "Festa dell’Uva e Vino Montonico",
+    "date": "02 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-02",
+    "end": "2025-10-05",
+    "citta": "Bisenti (TE)",
+    "provincia": "TE"
+  },
+  {
+    "nome": "Sagra dell’uva",
+    "date": "02 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-02",
+    "end": "2025-10-05",
+    "citta": "Cupramontana (AN)",
+    "provincia": "AN"
+  },
+  {
+    "nome": "Sagra del vino romagnolo",
+    "date": "02 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-02",
+    "end": "2025-10-05",
+    "citta": "Cotignola (RA)",
+    "provincia": "RA"
+  },
+  {
+    "nome": "Festa dell’uva",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Oliveto Citra (SA)",
+    "provincia": "SA"
+  },
+  {
+    "nome": "Sagra delle castagne",
+    "date": "03 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-19",
+    "citta": "Soriano Nel Cimino (VT)",
+    "provincia": "VT"
+  },
+  {
+    "nome": "Sagra dei sughitti",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Montecassiano (MC)",
+    "provincia": "MC"
+  },
+  {
+    "nome": "Festa del salame",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Cremona (CR)",
+    "provincia": "CR"
+  },
+  {
+    "nome": "Sagra della mostarda e del ficodindia",
+    "date": "03 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-12",
+    "citta": "Militello In Val di Catania (CT)",
+    "provincia": "CT"
+  },
+  {
+    "nome": "Elogio della bionda",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Villanova d'Asti (AT)",
+    "provincia": "AT"
+  },
+  {
+    "nome": "Sagra della castagna e del fungo",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Rossana (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Festa del riso",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Carpiano (MI)",
+    "provincia": "MI"
+  },
+  {
+    "nome": "Festa del fungo e dei sapori tipici",
+    "date": "03 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-12",
+    "citta": "Cona (VE)",
+    "provincia": "VE"
+  },
+  {
+    "nome": "Sagra dei Fichi Secchi",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Miglionico (MT)",
+    "provincia": "MT"
+  },
+  {
+    "nome": "Festa della lumaca d’autunno",
+    "date": "03 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-12",
+    "citta": "Casumaro (FE)",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Festa dei funghi Pioppini",
+    "date": "03 Ottobre 2025 - 06 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-06",
+    "citta": "Costozza (VI)",
+    "provincia": "VI"
+  },
+  {
+    "nome": "La giornata della castagna",
+    "date": "03 Ottobre 2025 - 01 Novembre 2025",
+    "start": "2025-10-03",
+    "end": "2025-11-01",
+    "citta": "Canepina (VT)",
+    "provincia": "VT"
+  },
+  {
+    "nome": "Mostra Mercato del Tartufo",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Apecchio (PU)",
+    "provincia": "PU"
+  },
+  {
+    "nome": "Sagra della Castagna",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Salza Irpina (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Fiera della zucca di Piozzo",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Piozzo (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Festa della Castagna",
+    "date": "03 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-19",
+    "citta": "Colmaggiore (PD)",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Sagra dell’uva cesanese del Piglio",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Piglio (FR)",
+    "provincia": "FR"
+  },
+  {
+    "nome": "Sagra di Vallio dell’oca",
+    "date": "03 Ottobre 2025 - 18 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-18",
+    "citta": "Meolo (VE)",
+    "provincia": "VE"
+  },
+  {
+    "nome": "Sagra delle tacchie ai funghi porcini",
+    "date": "03 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-12",
+    "citta": "Bellegra (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Sagra dei bigoli co’l’arna",
+    "date": "03 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-03",
+    "end": "2025-10-05",
+    "citta": "Zanè (VI)",
+    "provincia": "VI"
+  },
+  {
+    "nome": "Mast Còt fiera dell’aceto balsamico tradizionale",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Spilamberto (MO)",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Sagra dell’uva",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Rutigliano (BA)",
+    "provincia": "BA"
+  },
+  {
+    "nome": "Sagra della castagna IGP e del fungo porcino",
+    "date": "04 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-04",
+    "end": "2025-11-02",
+    "citta": "Roccamonfina (CE)",
+    "provincia": "CE"
+  },
+  {
+    "nome": "Tumact me Tulez – Festival dell’Aglianico e dei Prodotti Tipici",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Barile (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Sagra del porcino e della Chianina",
+    "date": "04 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-04",
+    "end": "2025-11-02",
+    "citta": "Castelfranco di Sotto (PI)",
+    "provincia": "PI"
+  },
+  {
+    "nome": "Sagra del Torcetto, Grissino e Toma di Lanzo",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Lanzo Torinese (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra del fungo",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Cossano Canavese (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Mostra dei funghi",
+    "date": "04 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-19",
+    "citta": "San Vito (SU)",
+    "provincia": "SU"
+  },
+  {
+    "nome": "Gut Longa",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Carpaneto Piacentino (PC)",
+    "provincia": "PC"
+  },
+  {
+    "nome": "La Transumanza di Pont Canavese",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Pont Canavese (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra della pesca di Leonforte IGP e dei prodotti tipici",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Leonforte (EN)",
+    "provincia": "EN"
+  },
+  {
+    "nome": "Sagra della Patata",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Rovegno (GE)",
+    "provincia": "GE"
+  },
+  {
+    "nome": "Festa della nocciola, salsicce e arancini alla nocciola",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Badiavecchia (BN)",
+    "provincia": "BN"
+  },
+  {
+    "nome": "Festa del Castagno",
+    "date": "04 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-26",
+    "citta": "Trecastagni (CT)",
+    "provincia": "CT"
+  },
+  {
+    "nome": "Sagra della Stesa",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Strangolagalli (FR)",
+    "provincia": "FR"
+  },
+  {
+    "nome": "Sagra dell’Uva Cari",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Baldissero Torinese (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Fiera Nazionale della Trippa di Moncalieri",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Moncalieri (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra pasta e fagioli",
+    "date": "04 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-04",
+    "citta": "Pisoniano (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Vendemmiale Capena",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Capena (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Festa dea Suca",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Cittadella (PD)",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Sagra della castagna",
+    "date": "04 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-26",
+    "citta": "Mezzomonte (PT)",
+    "provincia": "PT"
+  },
+  {
+    "nome": "Sagra del Mandorlo",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Sant'Andrea Frius (SU)",
+    "provincia": "SU"
+  },
+  {
+    "nome": "Sagra della patata",
+    "date": "04 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-04",
+    "citta": "Monno (BS)",
+    "provincia": "BS"
+  },
+  {
+    "nome": "Gnoche ‘n festa",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Auronzo di Cadore (BL)",
+    "provincia": "BL"
+  },
+  {
+    "nome": "Festa delle castagne e dei ricordi",
+    "date": "04 Ottobre 2025 - 05 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-05",
+    "citta": "Castell'Arquato (PC)",
+    "provincia": "PC"
+  },
+  {
+    "nome": "Sagra della mondina e del quartuccio fritto",
+    "date": "04 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-04",
+    "end": "2025-10-19",
+    "citta": "Bargecchia (LU)",
+    "provincia": "LU"
+  },
+  {
+    "nome": "Fita di pomme",
+    "date": "05 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-05",
+    "citta": "Gressan (AO)",
+    "provincia": "AO"
+  },
+  {
+    "nome": "Ottobrata zafferanese – mostra mercato",
+    "date": "05 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-26",
+    "citta": "Zafferana Etnea (CT)",
+    "provincia": "CT"
+  },
+  {
+    "nome": "Sagra della castagna e del marrone tipico",
+    "date": "05 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-26",
+    "citta": "Zocca (MO)",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Antichi sapori",
+    "date": "05 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-12",
+    "citta": "Cessapalombo (MC)",
+    "provincia": "MC"
+  },
+  {
+    "nome": "Autunno contadino",
+    "date": "05 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-05",
+    "citta": "Molina (TN)",
+    "provincia": "TN"
+  },
+  {
+    "nome": "Cinghiale e castagna",
+    "date": "05 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-26",
+    "citta": "Montefiore Conca (RN)",
+    "provincia": "RN"
+  },
+  {
+    "nome": "Sagra del marrone e dei frutti del sottobosco",
+    "date": "05 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-26",
+    "citta": "Palazzuolo Sul Senio (FI)",
+    "provincia": "FI"
+  },
+  {
+    "nome": "Festa dell’uva",
+    "date": "05 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-05",
+    "citta": "Savorgnano (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Sagra del Fungo",
+    "date": "05 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-05",
+    "citta": "San Pietro Val Lemina (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Festa della Zucca",
+    "date": "05 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-19",
+    "citta": "Gavirate (VA)",
+    "provincia": "VA"
+  },
+  {
+    "nome": "Sagra del Marrone",
+    "date": "05 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-26",
+    "citta": "Castel del Rio (BO)",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Sagra delle Frugiate",
+    "date": "05 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-19",
+    "citta": "Vellano (PT)",
+    "provincia": "PT"
+  },
+  {
+    "nome": "Sagra dell’Acquaticcio",
+    "date": "05 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-05",
+    "citta": "Colleluce (MC)",
+    "provincia": "MC"
+  },
+  {
+    "nome": "Festa della pizza chiena satrianese",
+    "date": "05 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-05",
+    "citta": "Satriano di Lucania (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Fiera Nazionale del tartufo bianco pregiato di Pergola",
+    "date": "05 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-19",
+    "citta": "Pergola (PU)",
+    "provincia": "PU"
+  },
+  {
+    "nome": "Ottobre a Caldana",
+    "date": "05 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-26",
+    "citta": "Caldana (GR)",
+    "provincia": "GR"
+  },
+  {
+    "nome": "Dì de la brisaola",
+    "date": "05 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-05",
+    "citta": "Chiavenna (SO)",
+    "provincia": "SO"
+  },
+  {
+    "nome": "Festa del Radicchio di Bieno",
+    "date": "05 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-05",
+    "citta": "Bieno (TN)",
+    "provincia": "TN"
+  },
+  {
+    "nome": "Festa delle Giuggiole",
+    "date": "05 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-12",
+    "citta": "Arquà Petrarca (PD)",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Festa dei cavoli nostri",
+    "date": "05 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-05",
+    "citta": "Collina (AL)",
+    "provincia": "AL"
+  },
+  {
+    "nome": "Sagra della patata",
+    "date": "05 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-05",
+    "end": "2025-10-12",
+    "citta": "Piandelagotti (MO)",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Festa dell’uva e dei fiori",
+    "date": "09 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-09",
+    "end": "2025-10-12",
+    "citta": "Foresto Sparso (BG)",
+    "provincia": "BG"
+  },
+  {
+    "nome": "Festa dell’uva",
+    "date": "09 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-09",
+    "end": "2025-10-12",
+    "citta": "Arcevia (AN)",
+    "provincia": "AN"
+  },
+  {
+    "nome": "Sagra della Bagna cauda",
+    "date": "09 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-09",
+    "end": "2025-10-12",
+    "citta": "Volpiano (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Mostra mercato nazionale del tartufo e dei prodotti tipici locali",
+    "date": "09 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-09",
+    "end": "2025-10-12",
+    "citta": "Colliano (SA)",
+    "provincia": "SA"
+  },
+  {
+    "nome": "Sagra dei Panocini",
+    "date": "09 Ottobre 2025 - 14 Ottobre 2025",
+    "start": "2025-10-09",
+    "end": "2025-10-14",
+    "citta": "Legnago (VR)",
+    "provincia": "VR"
+  },
+  {
+    "nome": "Sagra del pistacchio verde di Bronte DOP",
+    "date": "10 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-19",
+    "citta": "Bronte (CT)",
+    "provincia": "CT"
+  },
+  {
+    "nome": "Sagra della mela e dell’uva",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Villa di Tirano (SO)",
+    "provincia": "SO"
+  },
+  {
+    "nome": "Festival Internazionale “Mortadella please”",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Zola Predosa (BO)",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Sagra della patata",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Leonessa (RI)",
+    "provincia": "RI"
+  },
+  {
+    "nome": "Sagra della castagna di Serino IGP",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Serino (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Mostra mercato del tartufo bianco e della patata",
+    "date": "10 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-19",
+    "citta": "Pietralunga (PG)",
+    "provincia": "PG"
+  },
+  {
+    "nome": "Sagra dell’Uva Italia e sagra delle Pincinelle",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Colonna (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Sagra della Zucca",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Meugliano (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra della mostarda dei fichi d’india",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Pedagaggi (BN)",
+    "provincia": "BN"
+  },
+  {
+    "nome": "Sagra della castagna e della nocciola",
+    "date": "10 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-19",
+    "citta": "Avella (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Festa dei marroni di Combai",
+    "date": "10 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-10",
+    "end": "2025-11-02",
+    "citta": "Combai (TV)",
+    "provincia": "TV"
+  },
+  {
+    "nome": "Sagra del cinghiale e della castagna",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "San Potito Ultra (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Sagra della Castagna",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Montorsaio (GR)",
+    "provincia": "GR"
+  },
+  {
+    "nome": "Sagra delle olive",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Sannicandro di Bari (BA)",
+    "provincia": "BA"
+  },
+  {
+    "nome": "Festa del Miele",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Belforte all'isauro (PU)",
+    "provincia": "PU"
+  },
+  {
+    "nome": "Sagre da las masanetes",
+    "date": "10 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-19",
+    "citta": "Villaorba (TV)",
+    "provincia": "TV"
+  },
+  {
+    "nome": "Sagra del cardo, della bagna cauda e della cipolla piattellina",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Andezeno (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra del ciapinabò",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Carignano (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Mele a mel",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Mel (BL)",
+    "provincia": "BL"
+  },
+  {
+    "nome": "Sagra del tartufo di Bondeno",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Bondeno (FE)",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Sagra della Salsiccia",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Montemilone (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Zafarana Fest",
+    "date": "10 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-10",
+    "end": "2025-10-12",
+    "citta": "Tortora (CS)",
+    "provincia": "CS"
+  },
+  {
+    "nome": "Pomaria festa della mela DOP",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Denno (TN)",
+    "provincia": "TN"
+  },
+  {
+    "nome": "Fiera internazionale del tartufo bianco d’Alba",
+    "date": "11 Ottobre 2025 - 08 Dicembre 2025",
+    "start": "2025-10-11",
+    "end": "2025-12-08",
+    "citta": "Alba (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Sagra del fungo Silano",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Camigliatello Silano (CS)",
+    "provincia": "CS"
+  },
+  {
+    "nome": "Tovena in festa",
+    "date": "11 Ottobre 2025 - 31 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-31",
+    "citta": "Tovena (TN)",
+    "provincia": "TN"
+  },
+  {
+    "nome": "Sagra del crin",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Lesegno (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Sagra della castagna",
+    "date": "11 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-26",
+    "citta": "Trecchina (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Marchè au fort",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Bard (AO)",
+    "provincia": "AO"
+  },
+  {
+    "nome": "Festa della Castagna",
+    "date": "11 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-11",
+    "end": "2025-11-02",
+    "citta": "Vallerano (VT)",
+    "provincia": "VT"
   },
   {
     "nome": "Sagra del Tartufo",
-    "citta": "Casumaro",
-    "provincia": "FE",
-    "date": "7 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "date": "11 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-19",
+    "citta": "Canterano (RM)",
+    "provincia": "RM"
   },
   {
-    "nome": "Sagra del Tuber Magnatum Pico del Bosco della Panfilia",
-    "citta": "Sant'Agostino di Terre del Reno",
-    "provincia": "FE",
-    "date": "7 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sapori d’autunno",
+    "date": "11 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-19",
+    "citta": "Costigliole d'Asti (AT)",
+    "provincia": "AT"
   },
   {
-    "nome": "Festa del Torrone",
-    "citta": "Cremona",
-    "provincia": "CR",
-    "date": "8 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Paletta e dintorni",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Coggiola (BI)",
+    "provincia": "BI"
   },
   {
-    "nome": "Astro Gastro d'Autunno",
-    "citta": "Bondeno",
-    "provincia": "FE",
-    "date": "14 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra delle sagne e farre",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Licenza (RM)",
+    "provincia": "RM"
   },
   {
-    "nome": "Sagra delle Rane d'Autunno",
-    "citta": "Poggio Renatico",
-    "provincia": "FE",
-    "date": "14 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Sagra della Castagna",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Cassano Irpino (AV)",
+    "provincia": "AV"
   },
   {
-    "nome": "Sweet Pampepato",
-    "citta": "Terni",
-    "provincia": "TR",
-    "date": "21 - 25 Novembre 2025",
-    "fonte": "Assosagre"
+    "nome": "Mele vallée – Festa d’autunno",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Antey-Saint-André (AO)",
+    "provincia": "AO"
   },
   {
-    "nome": "6 Giorni del Cotechino",
-    "citta": "Alberone di Cento",
-    "provincia": "FE",
-    "date": "6 - 26 Febbraio 2026",
-    "fonte": "Assosagre"
+    "nome": "Sagra della zucca bertagnina",
+    "date": "11 Ottobre 2025 - 17 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-17",
+    "citta": "Dorno (PV)",
+    "provincia": "PV"
   },
   {
-    "nome": "",
-    "citta": "",
-    "provincia": "",
-    "date": "",
-    "fonte": "Sagritaly"
+    "nome": "Pomaria",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Denno (TN)",
+    "provincia": "TN"
+  },
+  {
+    "nome": "Pomo pero",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Lusiana Conco (VI)",
+    "provincia": "VI"
+  },
+  {
+    "nome": "Sagra del fungo amiatino",
+    "date": "11 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-19",
+    "citta": "Bagnolo (TN)",
+    "provincia": "TN"
+  },
+  {
+    "nome": "Festa della mela di Castel del Giudice",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Castel del Giudice (IS)",
+    "provincia": "IS"
+  },
+  {
+    "nome": "Parco urbano delle cantine di Rapolla",
+    "date": "11 Ottobre 2025 - 12 Ottobre 2025",
+    "start": "2025-10-11",
+    "end": "2025-10-12",
+    "citta": "Rapolla (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Sagra del Polentone",
+    "date": "12 Ottobre 2025",
+    "start": "2025-10-12",
+    "end": "2025-10-12",
+    "citta": "Sant'Angelo in Pontano (MC)",
+    "provincia": "MC"
+  },
+  {
+    "nome": "Festa del nuovo raccolto",
+    "date": "12 Ottobre 2025",
+    "start": "2025-10-12",
+    "end": "2025-10-12",
+    "citta": "Arro (SA)",
+    "provincia": "SA"
+  },
+  {
+    "nome": "Pranzo della rapa bianca",
+    "date": "12 Ottobre 2025",
+    "start": "2025-10-12",
+    "end": "2025-10-12",
+    "citta": "Caprauna (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Festa della castagna",
+    "date": "12 Ottobre 2025",
+    "start": "2025-10-12",
+    "end": "2025-10-12",
+    "citta": "Molini di Triora (IM)",
+    "provincia": "IM"
+  },
+  {
+    "nome": "Il mulino e il suo tempo",
+    "date": "12 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-12",
+    "end": "2025-10-19",
+    "citta": "Refrontolo (TV)",
+    "provincia": "TV"
+  },
+  {
+    "nome": "Festa della castagna",
+    "date": "12 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-12",
+    "end": "2025-10-26",
+    "citta": "Marola (MS)",
+    "provincia": "MS"
+  },
+  {
+    "nome": "Sagra del fungo e della castagna",
+    "date": "12 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-12",
+    "end": "2025-10-19",
+    "citta": "Vivo D'orcia (SI)",
+    "provincia": "SI"
+  },
+  {
+    "nome": "Fiera della Polenta",
+    "date": "16 Ottobre 2025 - 09 Novembre 2025",
+    "start": "2025-10-16",
+    "end": "2025-11-09",
+    "citta": "Vigasio (VR)",
+    "provincia": "VR"
+  },
+  {
+    "nome": "Sagra della vulia cazzata",
+    "date": "16 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-16",
+    "end": "2025-10-19",
+    "citta": "Martano (LE)",
+    "provincia": "LE"
+  },
+  {
+    "nome": "Sagra del pan-zal",
+    "date": "16 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-16",
+    "end": "2025-10-26",
+    "citta": "Rosa (SA)",
+    "provincia": "SA"
+  },
+  {
+    "nome": "Festa del Vì de Visciola",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "San Paolo di Jesi (AN)",
+    "provincia": "AN"
+  },
+  {
+    "nome": "Sagra Nazionale del calzone",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Acquaviva delle Fonti (BA)",
+    "provincia": "BA"
+  },
+  {
+    "nome": "Sagra della varola",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Melfi (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Fiera nazionale del marrone",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Cuneo (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Leguminaria",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Appignano (MC)",
+    "provincia": "MC"
+  },
+  {
+    "nome": "Sagra delle castagne",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Capradosso (AQ)",
+    "provincia": "AQ"
+  },
+  {
+    "nome": "Mais&Cavalli",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Vigone (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Lungo le Antiche Rue",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Civitella Roveto (AQ)",
+    "provincia": "AQ"
+  },
+  {
+    "nome": "Festival della sbrisolona e dei dolci italiani",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Mantova (MN)",
+    "provincia": "MN"
+  },
+  {
+    "nome": "Sagra del pane",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Ramacca (CT)",
+    "provincia": "CT"
+  },
+  {
+    "nome": "Festa della Zucca",
+    "date": "17 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-17",
+    "end": "2025-11-02",
+    "citta": "Salzano (VE)",
+    "provincia": "VE"
+  },
+  {
+    "nome": "Sagra del cavolo liscio",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Moriondo (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra del fagiolo di Saluggia",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Saluggia (VC)",
+    "provincia": "VC"
+  },
+  {
+    "nome": "Opuntia Ficus Indica Fest",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Roccapalumba (PA)",
+    "provincia": "PA"
+  },
+  {
+    "nome": "Il Tartufo tra i sapori di autunno",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Capizzi (ME)",
+    "provincia": "ME"
+  },
+  {
+    "nome": "Sagra delle castagne",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Rocca di Papa (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Festa della mela di valle maddaloni",
+    "date": "17 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-26",
+    "citta": "Valle di Maddaloni (CE)",
+    "provincia": "CE"
+  },
+  {
+    "nome": "Il nero di Bagnoli",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Bagnoli Irpino (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Sagra della Caldarrosta",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Trezzano Rosa (MI)",
+    "provincia": "MI"
+  },
+  {
+    "nome": "Festa Regionale Cavolo dell’Adige",
+    "date": "17 Ottobre 2025 - 20 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-20",
+    "citta": "Castagnaro (VR)",
+    "provincia": "VR"
+  },
+  {
+    "nome": "Fiera del rapulé",
+    "date": "17 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "citta": "Calosso (AT)",
+    "provincia": "AT"
+  },
+  {
+    "nome": "Sagra della lumaca",
+    "date": "17 Ottobre 2025 - 20 Ottobre 2025",
+    "start": "2025-10-17",
+    "end": "2025-10-20",
+    "citta": "Gesico (SU)",
+    "provincia": "SU"
+  },
+  {
+    "nome": "Sagra della polenta di Arborea",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Arborea (OR)",
+    "provincia": "OR"
+  },
+  {
+    "nome": "Mostra del Bitto",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Morbegno (SO)",
+    "provincia": "SO"
+  },
+  {
+    "nome": "Mostra mercato del sedano nero e sagra della salsiccia",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Trevi (PG)",
+    "provincia": "PG"
+  },
+  {
+    "nome": "Sagra della zucca",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Agra (VA)",
+    "provincia": "VA"
+  },
+  {
+    "nome": "Sagra della pappardella al cinghiale",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Sacrofano (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Sagra della patata e dei prodotti d’autunno",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Cagno (CO)",
+    "provincia": "CO"
+  },
+  {
+    "nome": "Funghi Fest",
+    "date": "18 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-26",
+    "citta": "Castelbuono (PA)",
+    "provincia": "PA"
+  },
+  {
+    "nome": "Festa dei Porcu Meu",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Muro Leccese (LE)",
+    "provincia": "LE"
+  },
+  {
+    "nome": "Zuccainpiazza",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Bormida-Genepro (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Festa della Castagna e del Marrone Dop Caprese",
+    "date": "18 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-26",
+    "citta": "Caprese Michelangelo (AR)",
+    "provincia": "AR"
+  },
+  {
+    "nome": "Sagra del suino nero e del Fungo porcino di Nebrodi",
+    "date": "18 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-26",
+    "citta": "Cesarò (ME)",
+    "provincia": "ME"
+  },
+  {
+    "nome": "Lo pan ner, i pani delle Alpi",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Valle d'Aosta (AO)",
+    "provincia": "AO"
+  },
+  {
+    "nome": "Festa della zucca",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Terzo D'aquileia (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Festa dei Pomi",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "San Pietro Viminario (PD)",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Sagra del fagiolo borbontino",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Borbona (RI)",
+    "provincia": "RI"
+  },
+  {
+    "nome": "Sagra della castagna",
+    "date": "18 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-26",
+    "citta": "Sicignano degli Alburni (SA)",
+    "provincia": "SA"
+  },
+  {
+    "nome": "Sapori di castagne",
+    "date": "18 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-26",
+    "citta": "Magnano In Riviera (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Palio dei cantù",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Martinengo (BG)",
+    "provincia": "BG"
+  },
+  {
+    "nome": "Simposio top wine 2950",
+    "date": "18 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-18",
+    "citta": "Canazei (TN)",
+    "provincia": "TN"
+  },
+  {
+    "nome": "Sagra della zucca",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Aquileia (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Sagra dei marroni",
+    "date": "18 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-26",
+    "citta": "Rocca Massima (LT)",
+    "provincia": "LT"
+  },
+  {
+    "nome": "Sagra della Castagna",
+    "date": "18 Ottobre 2025 - 19 Ottobre 2025",
+    "start": "2025-10-18",
+    "end": "2025-10-19",
+    "citta": "Summonte (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Sagra del tartufo",
+    "date": "19 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-19",
+    "end": "2025-10-26",
+    "citta": "Dovadola (FC)",
+    "provincia": "FC"
+  },
+  {
+    "nome": "La mela benefica – Sagra della mela e dei sapori tirolesi",
+    "date": "19 Ottobre 2025",
+    "start": "2025-10-19",
+    "end": "2025-10-19",
+    "citta": "Bolzano Novarese (NO)",
+    "provincia": "NO"
+  },
+  {
+    "nome": "Festa della zucca e dei fiori d’autunno",
+    "date": "19 Ottobre 2025",
+    "start": "2025-10-19",
+    "end": "2025-10-19",
+    "citta": "Montagnana (PD)",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Sagra della Polenta",
+    "date": "19 Ottobre 2025",
+    "start": "2025-10-19",
+    "end": "2025-10-19",
+    "citta": "Casperia (RI)",
+    "provincia": "RI"
+  },
+  {
+    "nome": "Sagra della Salsiccia",
+    "date": "19 Ottobre 2025",
+    "start": "2025-10-19",
+    "end": "2025-10-19",
+    "citta": "Camerata Nuova (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Festa della Castagna",
+    "date": "19 Ottobre 2025",
+    "start": "2025-10-19",
+    "end": "2025-10-19",
+    "citta": "Tufo Basso (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Festa della castagna di Intermesoli",
+    "date": "19 Ottobre 2025",
+    "start": "2025-10-19",
+    "end": "2025-10-19",
+    "citta": "Intermesoli (AQ)",
+    "provincia": "AQ"
+  },
+  {
+    "nome": "Festa rurale del Cevrin di Coazze",
+    "date": "19 Ottobre 2025",
+    "start": "2025-10-19",
+    "end": "2025-10-19",
+    "citta": "Coazze (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Festa del sedano rosso",
+    "date": "19 Ottobre 2025",
+    "start": "2025-10-19",
+    "end": "2025-10-19",
+    "citta": "Orbassano (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Keschtnriggl festa della castagna",
+    "date": "19 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-19",
+    "end": "2025-11-02",
+    "citta": "Foiana (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Sagra della castagna",
+    "date": "20 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-20",
+    "end": "2025-10-26",
+    "citta": "Cave (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Il marrone Segnino",
+    "date": "23 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-23",
+    "end": "2025-10-26",
+    "citta": "Segni (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Festa del Folpo",
+    "date": "23 Ottobre 2025 - 27 Ottobre 2025",
+    "start": "2025-10-23",
+    "end": "2025-10-27",
+    "citta": "Noventana (FE)",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Fira ‘d la calà",
+    "date": "23 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-23",
+    "end": "2025-10-26",
+    "citta": "Bobbio Pellice (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Sagra del miele di Châtillon",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Châtillon (AO)",
+    "provincia": "AO"
+  },
+  {
+    "nome": "Festa del baccalà",
+    "date": "24 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-24",
+    "end": "2025-11-02",
+    "citta": "Ronchi di Campanile (RN)",
+    "provincia": "RN"
+  },
+  {
+    "nome": "Sagra della Castagna del Partenio",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Cervinara (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Sagra della Castagna",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Sorbo Serpico (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "Sagra della castagna",
+    "date": "24 Ottobre 2025 - 27 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-27",
+    "citta": "San Cipriano Picentino (SA)",
+    "provincia": "SA"
+  },
+  {
+    "nome": "Sagra dei sapori Madoniti d’autunno",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Petralia Sottana (PA)",
+    "provincia": "PA"
+  },
+  {
+    "nome": "Festa dell’olio",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Lucca Sicula (AG)",
+    "provincia": "AG"
+  },
+  {
+    "nome": "Festa della sapa e del vin brulè",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Rosora (AN)",
+    "provincia": "AN"
+  },
+  {
+    "nome": "Sagra Polenta Taragna",
+    "date": "24 Ottobre 2025 - 09 Novembre 2025",
+    "start": "2025-10-24",
+    "end": "2025-11-09",
+    "citta": "Spirano (BG)",
+    "provincia": "BG"
+  },
+  {
+    "nome": "Sagra del totano",
+    "date": "24 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-24",
+    "end": "2025-11-02",
+    "citta": "Capraia Isola (LI)",
+    "provincia": "LI"
+  },
+  {
+    "nome": "Zafferiamo",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Città della Pieve (PG)",
+    "provincia": "PG"
+  },
+  {
+    "nome": "Castagnata di Lillianes",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Lillianes (AO)",
+    "provincia": "AO"
+  },
+  {
+    "nome": "Sagra della Castanicoltura",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Fagnano Castello (CS)",
+    "provincia": "CS"
+  },
+  {
+    "nome": "Sagra dei li pani fattu in domu",
+    "date": "24 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "citta": "Villaurbana (OR)",
+    "provincia": "OR"
+  },
+  {
+    "nome": "Mostra e sagra dei funghi",
+    "date": "25 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-25",
+    "citta": "Ucria (ME)",
+    "provincia": "ME"
+  },
+  {
+    "nome": "Sagra della mostarda di fichi d’india",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Gagliano Castelferrato (EN)",
+    "provincia": "EN"
+  },
+  {
+    "nome": "Sagra della castagna roscetta",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Canistro Inferiore (AQ)",
+    "provincia": "AQ"
+  },
+  {
+    "nome": "Mostra dei formaggi della valle del Belice e sagra della ricotta",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Poggioreale (TP)",
+    "provincia": "TP"
+  },
+  {
+    "nome": "Festa della zucca",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Venzone (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Volterra gusto",
+    "date": "25 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-25",
+    "end": "2025-11-02",
+    "citta": "Volterra (PI)",
+    "provincia": "PI"
+  },
+  {
+    "nome": "Sagra della salsiccia",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Morlupo (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Sagra dell’olio d’oliva",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Cervino (CE)",
+    "provincia": "CE"
+  },
+  {
+    "nome": "Mostra dei vini dei colli Euganei",
+    "date": "25 Ottobre 2025 - 09 Novembre 2025",
+    "start": "2025-10-25",
+    "end": "2025-11-09",
+    "citta": "Torreglia (PD)",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Sagra mercato della castagna",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Montemonaco (AP)",
+    "provincia": "AP"
+  },
+  {
+    "nome": "Festa del Kiwi",
+    "date": "25 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-25",
+    "citta": "Pizzale (PV)",
+    "provincia": "PV"
+  },
+  {
+    "nome": "Zucca Days",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Casumaro (FE)",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Festa dea Panocia",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Vigonza (PD)",
+    "provincia": "PD"
+  },
+  {
+    "nome": "Fiesta de li Sucis",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Cordenons (PN)",
+    "provincia": "PN"
+  },
+  {
+    "nome": "Sagra della Castagna",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "San Felice D'ocre (RI)",
+    "provincia": "RI"
+  },
+  {
+    "nome": "Sagra della Castagna e dei prodotti del sottobosco",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Calvello (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Festa della patata di Montagna",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Castelcivita (SA)",
+    "provincia": "SA"
+  },
+  {
+    "nome": "Sagra del tartufo bianco delle Colline Sanminiatesi",
+    "date": "25 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-25",
+    "end": "2025-11-02",
+    "citta": "Ponte a Egola (PI)",
+    "provincia": "PI"
+  },
+  {
+    "nome": "Super Castagnata",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Ripatransone (AP)",
+    "provincia": "AP"
+  },
+  {
+    "nome": "Sagra della Bagna Cauda",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Belveglio (AT)",
+    "provincia": "AT"
+  },
+  {
+    "nome": "L’Umbria in un bicchiere",
+    "date": "25 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-25",
+    "citta": "Foligno (PG)",
+    "provincia": "PG"
+  },
+  {
+    "nome": "Capricci d’autunno",
+    "date": "25 Ottobre 2025 - 09 Novembre 2025",
+    "start": "2025-10-25",
+    "end": "2025-11-09",
+    "citta": "Fiumedinisi (ME)",
+    "provincia": "ME"
+  },
+  {
+    "nome": "Bacco per Bacco",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Turi (BA)",
+    "provincia": "BA"
+  },
+  {
+    "nome": "Sagra delle “Zazzicchie e Verole”",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Gerano (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Tartófla – Festival Internazionale del tartufo bianco",
+    "date": "25 Ottobre 2025 - 16 Novembre 2025",
+    "start": "2025-10-25",
+    "end": "2025-11-16",
+    "citta": "Savigno (BO)",
+    "provincia": "BO"
+  },
+  {
+    "nome": "Sagra della Castagna",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Calvello (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Fiera del Sant – Fièro di Sant",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Vinadio (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Festa d’autunno ciccioli balsamici",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Albinea (RE)",
+    "provincia": "RE"
+  },
+  {
+    "nome": "Sagra della Castagna",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Martone (RC)",
+    "provincia": "RC"
+  },
+  {
+    "nome": "Sagra della Castagna di Aritzo",
+    "date": "25 Ottobre 2025 - 26 Ottobre 2025",
+    "start": "2025-10-25",
+    "end": "2025-10-26",
+    "citta": "Aritzo (NU)",
+    "provincia": "NU"
+  },
+  {
+    "nome": "Sagra delle radici di Soncino",
+    "date": "26 Ottobre 2025",
+    "start": "2025-10-26",
+    "end": "2025-10-26",
+    "citta": "Soncino (CR)",
+    "provincia": "CR"
+  },
+  {
+    "nome": "Sagra della Castagna",
+    "date": "26 Ottobre 2025",
+    "start": "2025-10-26",
+    "end": "2025-10-26",
+    "citta": "Montagnareale (ME)",
+    "provincia": "ME"
+  },
+  {
+    "nome": "Sagra dell’Agnellone e del Castrato",
+    "date": "26 Ottobre 2025",
+    "start": "2025-10-26",
+    "end": "2025-10-26",
+    "citta": "Brisighella (RA)",
+    "provincia": "RA"
+  },
+  {
+    "nome": "Castagnata di Flagogna",
+    "date": "26 Ottobre 2025",
+    "start": "2025-10-26",
+    "end": "2025-10-26",
+    "citta": "Flagogna (AP)",
+    "provincia": "AP"
+  },
+  {
+    "nome": "Festa del braciere",
+    "date": "26 Ottobre 2025",
+    "start": "2025-10-26",
+    "end": "2025-10-26",
+    "citta": "Moresco (FM)",
+    "provincia": "FM"
+  },
+  {
+    "nome": "Sagra del marrone locale",
+    "date": "26 Ottobre 2025",
+    "start": "2025-10-26",
+    "end": "2025-10-26",
+    "citta": "Polverina (CB)",
+    "provincia": "CB"
+  },
+  {
+    "nome": "Saboris Antigus",
+    "date": "26 Ottobre 2025",
+    "start": "2025-10-26",
+    "end": "2025-10-26",
+    "citta": "Gergei (SU)",
+    "provincia": "SU"
+  },
+  {
+    "nome": "Schisciafarniscula",
+    "date": "26 Ottobre 2025",
+    "start": "2025-10-26",
+    "end": "2025-10-26",
+    "citta": "Cassolnovo (PV)",
+    "provincia": "PV"
+  },
+  {
+    "nome": "Festa del marrone",
+    "date": "26 Ottobre 2025",
+    "start": "2025-10-26",
+    "end": "2025-10-26",
+    "citta": "Castione (BG)",
+    "provincia": "BG"
+  },
+  {
+    "nome": "I centogusti dell’appennino",
+    "date": "30 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-30",
+    "end": "2025-11-02",
+    "citta": "Anghiari (AR)",
+    "provincia": "AR"
+  },
+  {
+    "nome": "Soca Fest",
+    "date": "30 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-30",
+    "end": "2025-11-02",
+    "citta": "Palazzago (BG)",
+    "provincia": "BG"
+  },
+  {
+    "nome": "Festival della Valtellina",
+    "date": "30 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-30",
+    "end": "2025-11-02",
+    "citta": "Lomazzo (CO)",
+    "provincia": "CO"
+  },
+  {
+    "nome": "Sagra della strazzata – Festival dei grani antichi",
+    "date": "31 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-31",
+    "end": "2025-11-02",
+    "citta": "Lagopesole (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Sagra della Ciuìga",
+    "date": "31 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-31",
+    "end": "2025-11-02",
+    "citta": "San Lorenzo Dorsino (TN)",
+    "provincia": "TN"
+  },
+  {
+    "nome": "Ferrara Food Festival",
+    "date": "31 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-31",
+    "end": "2025-11-02",
+    "citta": "Ferrara (FE)",
+    "provincia": "FE"
+  },
+  {
+    "nome": "Mostra mercato nazionale del tartufo bianco",
+    "date": "31 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-31",
+    "end": "2025-11-02",
+    "citta": "Città di Castello (PG)",
+    "provincia": "PG"
+  },
+  {
+    "nome": "Sapori di Laverino",
+    "date": "31 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-31",
+    "end": "2025-11-02",
+    "citta": "Laverino (LC)",
+    "provincia": "LC"
+  },
+  {
+    "nome": "Mostra mercato del tartufo bianco di Carbone",
+    "date": "31 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-31",
+    "end": "2025-11-02",
+    "citta": "Carbone (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Sapori d’autunno",
+    "date": "31 Ottobre 2025 - 02 Novembre 2025",
+    "start": "2025-10-31",
+    "end": "2025-11-02",
+    "citta": "Pietrapertosa (PZ)",
+    "provincia": "PZ"
+  },
+  {
+    "nome": "Sagra della castagna",
+    "date": "01 Novembre 2025 - 02 Novembre 2025",
+    "start": "2025-11-01",
+    "end": "2025-11-02",
+    "citta": "Sante Marie (AQ)",
+    "provincia": "AQ"
+  },
+  {
+    "nome": "Sagra del fungo cardoncello",
+    "date": "01 Novembre 2025 - 02 Novembre 2025",
+    "start": "2025-11-01",
+    "end": "2025-11-02",
+    "citta": "Spinazzola (BT)",
+    "provincia": "BT"
+  },
+  {
+    "nome": "Sagra del Marrone",
+    "date": "01 Novembre 2025 - 02 Novembre 2025",
+    "start": "2025-11-01",
+    "end": "2025-11-02",
+    "citta": "Arcinazzo Romano (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "Festa del vino cotto, castagne e sapori d’autunno",
+    "date": "01 Novembre 2025 - 02 Novembre 2025",
+    "start": "2025-11-01",
+    "end": "2025-11-02",
+    "citta": "Roccamontepiano (CH)",
+    "provincia": "CH"
+  },
+  {
+    "nome": "Fiera Nazionale del Tartufo Bianco di Acqualagna",
+    "date": "01 Novembre 2025 - 23 Novembre 2025",
+    "start": "2025-11-01",
+    "end": "2025-11-23",
+    "citta": "Acqualagna (PU)",
+    "provincia": "PU"
+  },
+  {
+    "nome": "Agrimontana",
+    "date": "01 Novembre 2025 - 02 Novembre 2025",
+    "start": "2025-11-01",
+    "end": "2025-11-02",
+    "citta": "Palazzolo Acreide (SR)",
+    "provincia": "SR"
+  },
+  {
+    "nome": "Strade dello Zafferano di Sardegna DOP",
+    "date": "02 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-02",
+    "end": "2025-11-16",
+    "citta": "Villanovafranca (SU)",
+    "provincia": "SU"
+  },
+  {
+    "nome": "Frantoi aperti in Valle Roveto",
+    "date": "02 Novembre 2025 - 15 Novembre 2025",
+    "start": "2025-11-02",
+    "end": "2025-11-15",
+    "citta": "San Vincenzo Valle Roveto (AQ)",
+    "provincia": "AQ"
+  },
+  {
+    "nome": "Sagra della castagna",
+    "date": "05 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-05",
+    "end": "2025-11-09",
+    "citta": "Sant'Agata di Esaro (CS)",
+    "provincia": "CS"
+  },
+  {
+    "nome": "Sagra mele miele",
+    "date": "07 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-07",
+    "end": "2025-11-09",
+    "citta": "Baceno (VB)",
+    "provincia": "VB"
+  },
+  {
+    "nome": "Sagra della castagna IGP",
+    "date": "07 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-07",
+    "end": "2025-11-16",
+    "citta": "Montella (AV)",
+    "provincia": "AV"
+  },
+  {
+    "nome": "La Mangiaunta",
+    "date": "07 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-07",
+    "end": "2025-11-09",
+    "citta": "Giano Dell'umbria (PG)",
+    "provincia": "PG"
+  },
+  {
+    "nome": "Olioliva festa dell’olio nuovo",
+    "date": "07 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-07",
+    "end": "2025-11-09",
+    "citta": "Imperia (IM)",
+    "provincia": "IM"
+  },
+  {
+    "nome": "Festa del radicchio rosso di Treviso IGP",
+    "date": "07 Novembre 2025 - 23 Novembre 2025",
+    "start": "2025-11-07",
+    "end": "2025-11-23",
+    "citta": "Rio San Martino (TV)",
+    "provincia": "TV"
+  },
+  {
+    "nome": "Festa del vino",
+    "date": "07 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-07",
+    "end": "2025-11-09",
+    "citta": "Procida (NO_PROV)",
+    "provincia": "NO_PROV"
+  },
+  {
+    "nome": "Festa della castagna",
+    "date": "07 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-07",
+    "end": "2025-11-09",
+    "citta": "Riofreddo (RM)",
+    "provincia": "RM"
+  },
+  {
+    "nome": "DeguScanno",
+    "date": "07 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-07",
+    "end": "2025-11-09",
+    "citta": "Scanno (AQ)",
+    "provincia": "AQ"
+  },
+  {
+    "nome": "Festa del torrone",
+    "date": "08 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-08",
+    "end": "2025-11-16",
+    "citta": "Cremona (CR)",
+    "provincia": "CR"
+  },
+  {
+    "nome": "Bacco nelle gnostre",
+    "date": "08 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-08",
+    "end": "2025-11-09",
+    "citta": "Noci (BA)",
+    "provincia": "BA"
+  },
+  {
+    "nome": "Fiera del porro",
+    "date": "08 Novembre 2025 - 23 Novembre 2025",
+    "start": "2025-11-08",
+    "end": "2025-11-23",
+    "citta": "Cervere (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Le cantine di San Martino",
+    "date": "08 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-08",
+    "end": "2025-11-09",
+    "citta": "Arce (FR)",
+    "provincia": "FR"
+  },
+  {
+    "nome": "Festa del tartufo",
+    "date": "08 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-08",
+    "end": "2025-11-16",
+    "citta": "Campoli Appennino (FR)",
+    "provincia": "FR"
+  },
+  {
+    "nome": "L’oca e il vin novello",
+    "date": "08 Novembre 2025 - 09 Novembre 2025",
+    "start": "2025-11-08",
+    "end": "2025-11-09",
+    "citta": "Lavariano (UD)",
+    "provincia": "UD"
+  },
+  {
+    "nome": "Fiera del bollito con la pearà e sapori d’autunno",
+    "date": "13 Novembre 2025 - 30 Novembre 2025",
+    "start": "2025-11-13",
+    "end": "2025-11-30",
+    "citta": "Isola della Scala (VR)",
+    "provincia": "VR"
+  },
+  {
+    "nome": "Sagra della Cassatella di Agira",
+    "date": "14 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-14",
+    "end": "2025-11-16",
+    "citta": "Agira (EN)",
+    "provincia": "EN"
+  },
+  {
+    "nome": "Sagra delle olive",
+    "date": "14 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-14",
+    "end": "2025-11-16",
+    "citta": "Gonnosfanadiga (SU)",
+    "provincia": "SU"
+  },
+  {
+    "nome": "Aj a Caraj",
+    "date": "15 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-15",
+    "end": "2025-11-16",
+    "citta": "Caraglio (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Il cardoncello novello",
+    "date": "15 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-15",
+    "end": "2025-11-16",
+    "citta": "Gravina in Puglia (BA)",
+    "provincia": "BA"
+  },
+  {
+    "nome": "Fera dij Còj",
+    "date": "15 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-15",
+    "end": "2025-11-16",
+    "citta": "Settimo Torinese (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Festa della pitina",
+    "date": "15 Novembre 2025 - 16 Novembre 2025",
+    "start": "2025-11-15",
+    "end": "2025-11-16",
+    "citta": "Tramonti di Sopra (PN)",
+    "provincia": "PN"
+  },
+  {
+    "nome": "Sagra del cavolo verza",
+    "date": "19 Novembre 2025 - 23 Novembre 2025",
+    "start": "2025-11-19",
+    "end": "2025-11-23",
+    "citta": "Montalto Dora (TO)",
+    "provincia": "TO"
+  },
+  {
+    "nome": "Festa della cicerchia",
+    "date": "21 Novembre 2025 - 23 Novembre 2025",
+    "start": "2025-11-21",
+    "end": "2025-11-23",
+    "citta": "Serra De' Conti (AN)",
+    "provincia": "AN"
+  },
+  {
+    "nome": "Sagra dell’ulivo e dell’olio",
+    "date": "23 Novembre 2025",
+    "start": "2025-11-23",
+    "end": "2025-11-23",
+    "citta": "Brisighella (RA)",
+    "provincia": "RA"
+  },
+  {
+    "nome": "Festa della cicerchia di Serra de’ Conti",
+    "date": "28 Novembre 2025 - 30 Novembre 2025",
+    "start": "2025-11-28",
+    "end": "2025-11-30",
+    "citta": "Serra De' Conti (AN)",
+    "provincia": "AN"
+  },
+  {
+    "nome": "Festa del mandorlato",
+    "date": "29 Novembre 2025 - 07 Dicembre 2025",
+    "start": "2025-11-29",
+    "end": "2025-12-07",
+    "citta": "Cologna Veneta (VR)",
+    "provincia": "VR"
+  },
+  {
+    "nome": "Sagra del maiale e del cinghiale",
+    "date": "29 Novembre 2025 - 30 Novembre 2025",
+    "start": "2025-11-29",
+    "end": "2025-11-30",
+    "citta": "Antillo (ME)",
+    "provincia": "ME"
+  },
+  {
+    "nome": "Sagra del buccellato",
+    "date": "29 Novembre 2025 - 30 Novembre 2025",
+    "start": "2025-11-29",
+    "end": "2025-11-30",
+    "citta": "Casteldaccia (PA)",
+    "provincia": "PA"
+  },
+  {
+    "nome": "Olio & Farro",
+    "date": "29 Novembre 2025 - 30 Novembre 2025",
+    "start": "2025-11-29",
+    "end": "2025-11-30",
+    "citta": "Alviano (TR)",
+    "provincia": "TR"
+  },
+  {
+    "nome": "Fiera fredda – Fiera Nazionale della lumaca piemontese",
+    "date": "03 Dicembre 2025 - 07 Dicembre 2025",
+    "start": "2025-12-03",
+    "end": "2025-12-07",
+    "citta": "Borgo San Dalmazzo (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Festa del radicchio",
+    "date": "03 Dicembre 2025 - 07 Dicembre 2025",
+    "start": "2025-12-03",
+    "end": "2025-12-07",
+    "citta": "Asigliano Veneto (VI)",
+    "provincia": "VI"
+  },
+  {
+    "nome": "Festa dell’olio",
+    "date": "05 Dicembre 2025 - 07 Dicembre 2025",
+    "start": "2025-12-05",
+    "end": "2025-12-07",
+    "citta": "San Quirico d'Orcia (SI)",
+    "provincia": "SI"
+  },
+  {
+    "nome": "Choco Modica",
+    "date": "05 Dicembre 2025 - 08 Dicembre 2025",
+    "start": "2025-12-05",
+    "end": "2025-12-08",
+    "citta": "Modica (RG)",
+    "provincia": "RG"
+  },
+  {
+    "nome": "Festa del Torrone e del Croccantino",
+    "date": "05 Dicembre 2025 - 14 Dicembre 2025",
+    "start": "2025-12-05",
+    "end": "2025-12-14",
+    "citta": "San Marco dei Cavoti (BN)",
+    "provincia": "BN"
+  },
+  {
+    "nome": "Sagra dell’olivo di Canino",
+    "date": "06 Dicembre 2025 - 08 Dicembre 2025",
+    "start": "2025-12-06",
+    "end": "2025-12-08",
+    "citta": "Canino (VT)",
+    "provincia": "VT"
+  },
+  {
+    "nome": "Festa del Sedano Nero di Torricella Peligna",
+    "date": "07 Dicembre 2025 - 14 Dicembre 2025",
+    "start": "2025-12-07",
+    "end": "2025-12-14",
+    "citta": "Torricella Peligna (CH)",
+    "provincia": "CH"
+  },
+  {
+    "nome": "Festa de Su Binu Nou",
+    "date": "08 Dicembre 2025",
+    "start": "2025-12-08",
+    "end": "2025-12-08",
+    "citta": "Sardara (SU)",
+    "provincia": "SU"
+  },
+  {
+    "nome": "Festa dello zampone e del cotechino Modena IGP",
+    "date": "12 Dicembre 2025 - 14 Dicembre 2025",
+    "start": "2025-12-12",
+    "end": "2025-12-14",
+    "citta": "Modena (MO)",
+    "provincia": "MO"
+  },
+  {
+    "nome": "Fiera del bue grasso",
+    "date": "12 Dicembre 2025",
+    "start": "2025-12-12",
+    "end": "2025-12-12",
+    "citta": "Carrù (CN)",
+    "provincia": "CN"
+  },
+  {
+    "nome": "Festa del Radicchio variegato di Castelfranco IGP",
+    "date": "13 Dicembre 2025 - 14 Dicembre 2025",
+    "start": "2025-12-13",
+    "end": "2025-12-14",
+    "citta": "Castelfranco Veneto (TV)",
+    "provincia": "TV"
   }
 ]

@@ -1,55 +1,410 @@
-nome,citta,provincia,date,fonte
-Sagra del Pinzino e Arrosticino,Ferrara,FE,27 - 25 Settembre 2025,Assosagre
-Festa del Patrono di Sant'Agostino,Sant'Agostino di Terre del Reno,FE,27 - 25 Agosto 2025,Assosagre
-Sagra del Cotechino,Alberone di Cento,FE,28 - 25 Settembre 2025,Assosagre
-Sagra della Bistecca,Badia al Pino,AR,28 - 25 Agosto 2025,Assosagre
-Sagra dell'Ortica di Malalbergo,Malalbergo,BO,28 - 25 Settembre 2025,Assosagre
-Fiera Nazionale del Peperone di Carmagnola,Carmagnola,TO,29 - 25 Settembre 2025,Assosagre
-Festa della Tagliatella,Cavezzo,MO,29 - 25 Settembre 2025,Assosagre
-Sagra della Tagliatella Finalese,Finale Emilia,MO,29 - 25 Settembre 2025,Assosagre
-Sagra d'Estate,Serravalle di Riva del Po,FE,29 - 25 Settembre 2025,Assosagre
-Sagra dell'Anatra,Stellata di Bondeno,FE,29 - 25 Settembre 2025,Assosagre
-Festa dal Figh ad Figarol,Ficarolo,RO,30 - 25 Settembre 2025,Assosagre
-Sagra del Tartufo di Sant’Agostino,Sant'Agostino di Terre del Reno,FE,3 - 25 Settembre 2025,Assosagre
-Festa del Bo',Cervarese Santa Croce,PD,4 - 25 Settembre 2025,Assosagre
-Birra e Tartufo,Borgofranco sul Po di Borgocarbonara,MN,5 - 25 Settembre 2025,Assosagre
-Sagra del Garganello,Codrignano di Borgo Tossignano,BO,5 - 25 Settembre 2025,Assosagre
-Arrosticini nel Chiostro,Ferrara,FE,5 - 25 Settembre 2025,Assosagre
-Sagra della Bondiola,Poggio Renatico,FE,5 - 25 Settembre 2025,Assosagre
-Fiera di Runzi ''S.S. Nome di Maria'' - Sagra del Somarino,Runzi di Bagnolo di Po,RO,5 - 25 Settembre 2025,Assosagre
-Sagra del Tortellone - Festa della Madonna della Cintura,Farneto di San Lazzaro di Savena,BO,6 - 25 Settembre 2025,Assosagre
-Nuova Sagra dell'Ovo Casarino,Longara di Calderara di Reno,BO,6 - 25 Settembre 2025,Assosagre
-Magnalonga settembrina,Negrar di Valpolicella,VR,7 - 25 Settembre 2025,Assosagre
-Sagra di Staggia,Staggia di San Prospero,MO,12 - 25 Settembre 2025,Assosagre
-Sagra dello Storione,Casumaro,FE,13 - 25 Settembre 2025,Assosagre
-Sagra dal Caplaz,Scortichino di Bondeno,FE,13 - 25 Settembre 2025,Assosagre
-Sagra Salamina da Sugo al Cucchiaio di Madonna Boschi,Madonna Boschi di Poggio Renatico,FE,19 - 25 Ottobre 2025,Assosagre
-Festa dei Sapori e delle Tradizioni,Terrassa Padovana,PD,19 - 25 Settembre 2025,Assosagre
-Festa dell'Equino e delle Tradizioni,Massa Finalese di Finale Emilia,MO,25 - 25 Ottobre 2025,Assosagre
-Festa del Cappelletto d'Autunno,Vigarano Pieve,FE,25 - 25 Ottobre 2025,Assosagre
-Emilia Food Fest,Carpi,MO,26 - 25 Settembre 2025,Assosagre
-Sagra dell'Anguilla,Comacchio,FE,27 - 25 Ottobre 2025,Assosagre
-Fuoco alle polveri,Crevalcore,BO,27 - 25 Settembre 2025,Assosagre
-Fiera di Santa Sofia,Canaro,RO,30 - 25 Ottobre 2025,Assosagre
-Sagra del Tortellone d'Autunno,Bevilacqua di Crevalcore,BO,2 - 25 Ottobre 2025,Assosagre
-Palio del Maccherone al Pettine delle Valli Mirandolesi,Mirandola,MO,2 - 25 Ottobre 2025,Assosagre
-Fiera Nazionale del Tartufo Bianco di Borgofranco sul Po,Borgofranco sul Po di Borgocarbonara,MN,3 - 25 Ottobre 2025,Assosagre
-Sagra del Radicchio di Bosco,Bosco Mesola,FE,3 - 25 Ottobre 2025,Assosagre
-Festa della Lumaca d'Autunno,Casumaro di Cento,FE,3 - 25 Ottobre 2025,Assosagre
-Festa del Salame,Cremona,CR,3 - 25 Ottobre 2025,Assosagre
-Sagra del Bollito,San Pietro in Casale,BO,9 - 25 Ottobre 2025,Assosagre
-Gran Galà del Tortél Dols di Colorno,Colorno,PR,11 - 25 Ottobre 2025,Assosagre
-Sbrisolona & Co,Mantova,MN,17 - 25 Ottobre 2025,Assosagre
-Sciocolà,Modena,MO,30 - 25 Novembre 2025,Assosagre
-Ferrara Food Festival,Ferrara,FE,31 - 25 Novembre 2025,Assosagre
-Sagra della Zucca e del suo Cappellaccio Ferrarese I.G.P. Sapori d'Autunno,San Carlo di Terre del Reno,FE,31 - 25 Novembre 2025,Assosagre
-Tartufesta del Po,Carbonara di Po di Borgocarbonara,MN,1 - 25 Novembre 2025,Assosagre
-Novemberfest,Bevilacqua di Crevalcore,BO,7 - 25 Novembre 2025,Assosagre
-Sagra del Tartufo,Casumaro,FE,7 - 25 Novembre 2025,Assosagre
-Sagra del Tuber Magnatum Pico del Bosco della Panfilia,Sant'Agostino di Terre del Reno,FE,7 - 25 Novembre 2025,Assosagre
-Festa del Torrone,Cremona,CR,8 - 25 Novembre 2025,Assosagre
-Astro Gastro d'Autunno,Bondeno,FE,14 - 25 Novembre 2025,Assosagre
-Sagra delle Rane d'Autunno,Poggio Renatico,FE,14 - 25 Novembre 2025,Assosagre
-Sweet Pampepato,Terni,TR,21 - 25 Novembre 2025,Assosagre
-6 Giorni del Cotechino,Alberone di Cento,FE,6 - 26 Febbraio 2026,Assosagre
-,,,,Sagritaly
+nome,date,start,end,citta,provincia
+Sagra del cinghiale,30 Maggio 2025 - 02 Novembre 2025,2025-05-30,2025-11-02,Dugenta (BN),BN
+Cheese FestiVal di sole,06 Settembre 2025 - 22 Settembre 2025,2025-09-06,2025-09-22,Malé (TN),TN
+Festa dell’uva,07 Settembre 2025 - 28 Settembre 2025,2025-09-07,2025-09-28,Gropparello (PC),PC
+Festa del porcino mostra mercato,10 Settembre 2025 - 21 Settembre 2025,2025-09-10,2025-09-21,Lariano (RM),RM
+Sagra dea sbrisa,12 Settembre 2025 - 23 Settembre 2025,2025-09-12,2025-09-23,Venezia (VE),VE
+Sagra della cotoletta mirabellese,12 Settembre 2025 - 28 Settembre 2025,2025-09-12,2025-09-28,Mirabello (MO),MO
+Festa dea poenta,12 Settembre 2025 - 28 Settembre 2025,2025-09-12,2025-09-28,Castelminio (TV),TV
+Festa dei funghi e dell’ambiente,12 Settembre 2025 - 21 Settembre 2025,2025-09-12,2025-09-21,Budoia (PN),PN
+Sagra Poenta e Osei,12 Settembre 2025 - 28 Settembre 2025,2025-09-12,2025-09-28,Pramaggiore Blessaglia (VE),VE
+Sagra del Grappolo D’Oro,12 Settembre 2025 - 21 Settembre 2025,2025-09-12,2025-09-21,Potenza Picena (MC),MC
+Sagra Levà,12 Settembre 2025 - 21 Settembre 2025,2025-09-12,2025-09-21,Levà (VI),VI
+Sagra dello storione e pesce di mare,13 Settembre 2025 - 21 Settembre 2025,2025-09-13,2025-09-21,Casumaro (FE),FE
+"Sagra della polenta, funghi porcini e cinghiale",13 Settembre 2025 - 21 Settembre 2025,2025-09-13,2025-09-21,Poggio Alla Malva (FI),FI
+Sagra della polenta e dei frutti del sottobosco,14 Settembre 2025 - 05 Ottobre 2025,2025-09-14,2025-10-05,Perticara (RN),RN
+Festa dell’uva,17 Settembre 2025 - 21 Settembre 2025,2025-09-17,2025-09-21,Castellarano (RE),RE
+Sagra Della Nana,17 Settembre 2025 - 28 Settembre 2025,2025-09-17,2025-09-28,Montagnano (RN),RN
+Roma Baccalà,18 Settembre 2025 - 21 Settembre 2025,2025-09-18,2025-09-21,Roma (RM),RM
+Festival del bacalà alla vincentina,18 Settembre 2025 - 29 Settembre 2025,2025-09-18,2025-09-29,Sandrigo (VI),VI
+Festa del Pistacchio di Raffadali DOP,18 Settembre 2025 - 21 Settembre 2025,2025-09-18,2025-09-21,Raffadali (AG),AG
+Sagra del riso del delta del po,18 Settembre 2025 - 21 Settembre 2025,2025-09-18,2025-09-21,Porto Tolle (RO),RO
+Sagra del Caciocavallo,18 Settembre 2025 - 21 Settembre 2025,2025-09-18,2025-09-21,Castelfranco In Miscano (BN),BN
+Sagra del Risotto,18 Settembre 2025 - 21 Settembre 2025,2025-09-18,2025-09-21,Cergnago (PV),PV
+Festa del pane casareccio IGP,18 Settembre 2025 - 21 Settembre 2025,2025-09-18,2025-09-21,Genzano di Roma (RM),RM
+Sagra del pesce,19 Settembre 2025 - 21 Settembre 2025,2025-09-19,2025-09-21,Pioppi (SA),SA
+Sagra dei funghi,19 Settembre 2025 - 12 Ottobre 2025,2025-09-19,2025-10-12,Cusano Mutri (BN),BN
+Sagra del fungo porcino,19 Settembre 2025 - 28 Settembre 2025,2025-09-19,2025-09-28,Castelpagano (BN),BN
+Sagra della salamina da sugo al cucchiaio,19 Settembre 2025 - 05 Ottobre 2025,2025-09-19,2025-10-05,Poggio Renatico (FE),FE
+Festa del Vino del Monferrato Unesco,19 Settembre 2025 - 28 Settembre 2025,2025-09-19,2025-09-28,Casale Monferrato (AL),AL
+Fiera del riso,19 Settembre 2025 - 12 Ottobre 2025,2025-09-19,2025-10-12,Isola della Scala (VR),VR
+Festa dei sapori e delle tradizioni,19 Settembre 2025 - 21 Settembre 2025,2025-09-19,2025-09-21,Terrassa Padovana (PD),PD
+Festival del puzzone di Moena,19 Settembre 2025 - 21 Settembre 2025,2025-09-19,2025-09-21,Moena (TN),TN
+Cous Cous fest,19 Settembre 2025 - 28 Settembre 2025,2025-09-19,2025-09-28,San Vito Lo Capo (TP),TP
+A tavola nel Feltrino: il fagiolo,19 Settembre 2025 - 21 Settembre 2025,2025-09-19,2025-09-21,Lamon (BL),BL
+"Bra’s – Il festival della salsiccia, del formaggio, del pane e del riso di Bra",19 Settembre 2025 - 22 Settembre 2025,2025-09-19,2025-09-22,Bra (CN),CN
+Festa della zucca,19 Settembre 2025 - 28 Settembre 2025,2025-09-19,2025-09-28,Ghizzole (PR),PR
+Festa del baccalà,19 Settembre 2025 - 05 Ottobre 2025,2025-09-19,2025-10-05,Robegano (VE),VE
+Festa di San Michele,19 Settembre 2025 - 29 Settembre 2025,2025-09-19,2025-09-29,Quarto d'Altino (VE),VE
+Sagra della patata,19 Settembre 2025 - 21 Settembre 2025,2025-09-19,2025-09-21,Villastellone (TO),TO
+Sagra del Coniglio ripieno e Focaccia di patate,19 Settembre 2025 - 21 Settembre 2025,2025-09-19,2025-09-21,Casamassima (BA),BA
+Festa dell’uva Soave,19 Settembre 2025 - 21 Settembre 2025,2025-09-19,2025-09-21,Soave (VR),VR
+Festa del pesce,19 Settembre 2025 - 28 Settembre 2025,2025-09-19,2025-09-28,Caorle (VE),VE
+Sagra de caplet,19 Settembre 2025 - 22 Settembre 2025,2025-09-19,2025-09-22,Porto Fuori (RA),RA
+Festa del riso,19 Settembre 2025 - 23 Settembre 2025,2025-09-19,2025-09-23,Grumolo delle Abbadesse (VI),VI
+Sagra della patata di montagna,19 Settembre 2025 - 21 Settembre 2025,2025-09-19,2025-09-21,Muro Lucano (PZ),PZ
+Festa del fungo e del palio del fungaiolo,19 Settembre 2025 - 21 Settembre 2025,2025-09-19,2025-09-21,San Giorgio Piacentino (PC),PC
+Festa della patata americana,19 Settembre 2025 - 28 Settembre 2025,2025-09-19,2025-09-28,Anguillara Veneta (PD),PD
+Sagra nazionale del gorgonzola,20 Settembre 2025 - 21 Settembre 2025,2025-09-20,2025-09-21,Gorgonzola (MI),MI
+Fiera del fungo di Borgotaro,20 Settembre 2025 - 28 Settembre 2025,2025-09-20,2025-09-28,Borgo Val di Taro (PR),PR
+Sagra dell’uva,20 Settembre 2025 - 21 Settembre 2025,2025-09-20,2025-09-21,Galluccio (CE),CE
+Sagra dell’ocio,20 Settembre 2025 - 29 Settembre 2025,2025-09-20,2025-09-29,Montepulciano Stazione (SI),SI
+Sagra del Bitto,20 Settembre 2025 - 21 Settembre 2025,2025-09-20,2025-09-21,Gerola Alta (SO),SO
+Festa del Vino Cotto,20 Settembre 2025 - 21 Settembre 2025,2025-09-20,2025-09-21,Lapedona (FM),FM
+Sagra dello stoccafisso,20 Settembre 2025 - 21 Settembre 2025,2025-09-20,2025-09-21,Badalucco (IM),IM
+Festa dell’uva e dei vini,20 Settembre 2025 - 21 Settembre 2025,2025-09-20,2025-09-21,Velletri (RM),RM
+Fiera della cipolla bionda di Cureggio e Fontaneto,20 Settembre 2025 - 21 Settembre 2025,2025-09-20,2025-09-21,Fontaneto D'agogna (NO),NO
+Sagra dell’Uva e del Lambrusco Grasparossa,20 Settembre 2025 - 28 Settembre 2025,2025-09-20,2025-09-28,Castelvetro di Modena (MO),MO
+Sagra del Cuzzetiello,20 Settembre 2025 - 21 Settembre 2025,2025-09-20,2025-09-21,Domicella (AV),AV
+Sagra della schiacciata,21 Settembre 2025,2025-09-21,2025-09-21,Bivigliano (FI),FI
+Sagra del Bombolone,21 Settembre 2025,2025-09-21,2025-09-21,La Rotta (PI),PI
+Mostra della razza Cabannina,21 Settembre 2025,2025-09-21,2025-09-21,Rezzoaglio (GE),GE
+Sagra del tomino,21 Settembre 2025,2025-09-21,2025-09-21,Rivalta di Torino (TO),TO
+Festa del vino e dell’uva,21 Settembre 2025 - 28 Settembre 2025,2025-09-21,2025-09-28,Carema (TO),TO
+Sagra della patata di montagna e dei prodotti tipici,21 Settembre 2025,2025-09-21,2025-09-21,Sauze d'Oulx (TO),TO
+Festa dell’amaretto di Sassello,21 Settembre 2025,2025-09-21,2025-09-21,Sassello (SV),SV
+Sagra dei maccheroni con il coniglio,23 Settembre 2025,2025-09-23,2025-09-23,Agira (EN),EN
+Féta di Resèn – Festa dell’uva,24 Settembre 2025 - 28 Settembre 2025,2025-09-24,2025-09-28,Chambave (AO),AO
+Sagra della patata,25 Settembre 2025 - 28 Settembre 2025,2025-09-25,2025-09-28,Lazzate (MB),MB
+Sagra della cucina piemontese,25 Settembre 2025 - 29 Settembre 2025,2025-09-25,2025-09-29,Volpiano (TO),TO
+Sagra della vendemmia,25 Settembre 2025 - 28 Settembre 2025,2025-09-25,2025-09-28,Pedalino (RG),RG
+Fiera del Casoncello di Barbariga,25 Settembre 2025 - 28 Settembre 2025,2025-09-25,2025-09-28,Barbariga (BS),BS
+Gusti di frontiera,25 Settembre 2025 - 28 Settembre 2025,2025-09-25,2025-09-28,Gorizia (GO),GO
+Sagra del miele,26 Settembre 2025 - 28 Settembre 2025,2025-09-26,2025-09-28,Sortino (SR),SR
+"Sagra della zampina, del bocconcino e del buon vino",26 Settembre 2025 - 28 Settembre 2025,2025-09-26,2025-09-28,Sammichele di Bari (BA),BA
+Festa dell’uva,26 Settembre 2025 - 28 Settembre 2025,2025-09-26,2025-09-28,Verla (BL),BL
+Festa dell’uva,26 Settembre 2025 - 27 Settembre 2025,2025-09-26,2025-09-27,Fonzaso (BL),BL
+Mostra regionale della mela,26 Settembre 2025 - 05 Ottobre 2025,2025-09-26,2025-10-05,Pantianicco (UD),UD
+Festa dell’Uva e del Recioto,26 Settembre 2025 - 29 Settembre 2025,2025-09-26,2025-09-29,Gambellara (VI),VI
+Sagra della nocciola,26 Settembre 2025 - 28 Settembre 2025,2025-09-26,2025-09-28,Prepezzano (CS),CS
+Festa dell’uva e del vino,26 Settembre 2025 - 28 Settembre 2025,2025-09-26,2025-09-28,Chiusi (SI),SI
+La macenata,26 Settembre 2025 - 04 Ottobre 2025,2025-09-26,2025-10-04,Paternopoli (AV),AV
+Lignano Tuna Festival,26 Settembre 2025 - 05 Ottobre 2025,2025-09-26,2025-10-05,Lignano Sabbiadoro (UD),UD
+Festa del bisonte con polenta,26 Settembre 2025 - 05 Ottobre 2025,2025-09-26,2025-10-05,Ronchis (UD),UD
+Sagra dell’uva di San Cesareo,26 Settembre 2025 - 28 Settembre 2025,2025-09-26,2025-09-28,San Cesareo (RM),RM
+Sagra del Gorgonzola,26 Settembre 2025 - 05 Ottobre 2025,2025-09-26,2025-10-05,Caronno Pertusella (VA),VA
+La Zucca delle Meraviglie,26 Settembre 2025 - 28 Settembre 2025,2025-09-26,2025-09-28,Piea (AT),AT
+Du blé au pain,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,La Magdeleine (AO),AO
+Sagra della bruschetta e dell’olio novo,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Montegiovi (GR),GR
+Sagra dell’anguilla,27 Settembre 2025 - 12 Ottobre 2025,2025-09-27,2025-10-12,Comacchio (FE),FE
+Sagra dell’uva,27 Settembre 2025 - 05 Ottobre 2025,2025-09-27,2025-10-05,Marino (RM),RM
+Festa della polenta,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Soragna (PR),PR
+Sagra della patata,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Villabassa (BZ),BZ
+Sagra dello zafferano,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Valguarnera Caropepe (EN),EN
+Sagra dei prodotti tipici ceramesi “Pipi e Cavatieddi”,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Cerami (EN),EN
+Sagra della polenta,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Apiro (MC),MC
+Festa della mela,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Tolmezzo (UD),UD
+Sagra del Fungo Porcino,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Bagnara (RC),RC
+Autunno in Barbagia,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Austis (NU),NU
+Festa dello speck Alto Adige,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Brunico (BZ),BZ
+Sagra del Savor,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Montegelli (AR),AR
+Festa della Noce,27 Settembre 2025 - 05 Ottobre 2025,2025-09-27,2025-10-05,Motta Camastra (ME),ME
+Sagra della Lepre e del Cinghiale,27 Settembre 2025 - 12 Ottobre 2025,2025-09-27,2025-10-12,Selvatelle (PI),PI
+Sagra del Macagn,27 Settembre 2025 - 28 Settembre 2025,2025-09-27,2025-09-28,Crocemosso (VC),VC
+Sagra del salame d’oca di Mortara,28 Settembre 2025,2025-09-28,2025-09-28,Mortara (PV),PV
+Sagra degli Stigliozzi,28 Settembre 2025,2025-09-28,2025-09-28,Castel di Tora (RI),RI
+Sagra del pane,28 Settembre 2025,2025-09-28,2025-09-28,Piobesi Torinese (TO),TO
+Sagra della Patata,28 Settembre 2025,2025-09-28,2025-09-28,Magnano (BI),BI
+Festa del borgo e sagra del civraxiu,28 Settembre 2025,2025-09-28,2025-09-28,Sanluri (SU),SU
+Sagra dell’uva,28 Settembre 2025,2025-09-28,2025-09-28,San Colombano al Lambro (MI),MI
+Festa della patata naturale dell’Alto Astico e di Tonezza,28 Settembre 2025 - 26 Ottobre 2025,2025-09-28,2025-10-26,Tonezza del Cimone (VI),VI
+Sagra del radicchio,30 Settembre 2025 - 06 Ottobre 2025,2025-09-30,2025-10-06,Bosco Mesola (FE),FE
+Festa dell’uva e del vino,02 Ottobre 2025 - 06 Ottobre 2025,2025-10-02,2025-10-06,Bardolino (VR),VR
+Festa dell’Uva e Vino Montonico,02 Ottobre 2025 - 05 Ottobre 2025,2025-10-02,2025-10-05,Bisenti (TE),TE
+Sagra dell’uva,02 Ottobre 2025 - 05 Ottobre 2025,2025-10-02,2025-10-05,Cupramontana (AN),AN
+Sagra del vino romagnolo,02 Ottobre 2025 - 05 Ottobre 2025,2025-10-02,2025-10-05,Cotignola (RA),RA
+Festa dell’uva,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Oliveto Citra (SA),SA
+Sagra delle castagne,03 Ottobre 2025 - 19 Ottobre 2025,2025-10-03,2025-10-19,Soriano Nel Cimino (VT),VT
+Sagra dei sughitti,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Montecassiano (MC),MC
+Festa del salame,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Cremona (CR),CR
+Sagra della mostarda e del ficodindia,03 Ottobre 2025 - 12 Ottobre 2025,2025-10-03,2025-10-12,Militello In Val di Catania (CT),CT
+Elogio della bionda,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Villanova d'Asti (AT),AT
+Sagra della castagna e del fungo,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Rossana (CN),CN
+Festa del riso,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Carpiano (MI),MI
+Festa del fungo e dei sapori tipici,03 Ottobre 2025 - 12 Ottobre 2025,2025-10-03,2025-10-12,Cona (VE),VE
+Sagra dei Fichi Secchi,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Miglionico (MT),MT
+Festa della lumaca d’autunno,03 Ottobre 2025 - 12 Ottobre 2025,2025-10-03,2025-10-12,Casumaro (FE),FE
+Festa dei funghi Pioppini,03 Ottobre 2025 - 06 Ottobre 2025,2025-10-03,2025-10-06,Costozza (VI),VI
+La giornata della castagna,03 Ottobre 2025 - 01 Novembre 2025,2025-10-03,2025-11-01,Canepina (VT),VT
+Mostra Mercato del Tartufo,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Apecchio (PU),PU
+Sagra della Castagna,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Salza Irpina (AV),AV
+Fiera della zucca di Piozzo,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Piozzo (CN),CN
+Festa della Castagna,03 Ottobre 2025 - 19 Ottobre 2025,2025-10-03,2025-10-19,Colmaggiore (PD),PD
+Sagra dell’uva cesanese del Piglio,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Piglio (FR),FR
+Sagra di Vallio dell’oca,03 Ottobre 2025 - 18 Ottobre 2025,2025-10-03,2025-10-18,Meolo (VE),VE
+Sagra delle tacchie ai funghi porcini,03 Ottobre 2025 - 12 Ottobre 2025,2025-10-03,2025-10-12,Bellegra (RM),RM
+Sagra dei bigoli co’l’arna,03 Ottobre 2025 - 05 Ottobre 2025,2025-10-03,2025-10-05,Zanè (VI),VI
+Mast Còt fiera dell’aceto balsamico tradizionale,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Spilamberto (MO),MO
+Sagra dell’uva,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Rutigliano (BA),BA
+Sagra della castagna IGP e del fungo porcino,04 Ottobre 2025 - 02 Novembre 2025,2025-10-04,2025-11-02,Roccamonfina (CE),CE
+Tumact me Tulez – Festival dell’Aglianico e dei Prodotti Tipici,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Barile (PZ),PZ
+Sagra del porcino e della Chianina,04 Ottobre 2025 - 02 Novembre 2025,2025-10-04,2025-11-02,Castelfranco di Sotto (PI),PI
+"Sagra del Torcetto, Grissino e Toma di Lanzo",04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Lanzo Torinese (TO),TO
+Sagra del fungo,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Cossano Canavese (TO),TO
+Mostra dei funghi,04 Ottobre 2025 - 19 Ottobre 2025,2025-10-04,2025-10-19,San Vito (SU),SU
+Gut Longa,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Carpaneto Piacentino (PC),PC
+La Transumanza di Pont Canavese,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Pont Canavese (TO),TO
+Sagra della pesca di Leonforte IGP e dei prodotti tipici,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Leonforte (EN),EN
+Sagra della Patata,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Rovegno (GE),GE
+"Festa della nocciola, salsicce e arancini alla nocciola",04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Badiavecchia (BN),BN
+Festa del Castagno,04 Ottobre 2025 - 26 Ottobre 2025,2025-10-04,2025-10-26,Trecastagni (CT),CT
+Sagra della Stesa,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Strangolagalli (FR),FR
+Sagra dell’Uva Cari,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Baldissero Torinese (TO),TO
+Fiera Nazionale della Trippa di Moncalieri,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Moncalieri (TO),TO
+Sagra pasta e fagioli,04 Ottobre 2025,2025-10-04,2025-10-04,Pisoniano (RM),RM
+Vendemmiale Capena,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Capena (RM),RM
+Festa dea Suca,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Cittadella (PD),PD
+Sagra della castagna,04 Ottobre 2025 - 26 Ottobre 2025,2025-10-04,2025-10-26,Mezzomonte (PT),PT
+Sagra del Mandorlo,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Sant'Andrea Frius (SU),SU
+Sagra della patata,04 Ottobre 2025,2025-10-04,2025-10-04,Monno (BS),BS
+Gnoche ‘n festa,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Auronzo di Cadore (BL),BL
+Festa delle castagne e dei ricordi,04 Ottobre 2025 - 05 Ottobre 2025,2025-10-04,2025-10-05,Castell'Arquato (PC),PC
+Sagra della mondina e del quartuccio fritto,04 Ottobre 2025 - 19 Ottobre 2025,2025-10-04,2025-10-19,Bargecchia (LU),LU
+Fita di pomme,05 Ottobre 2025,2025-10-05,2025-10-05,Gressan (AO),AO
+Ottobrata zafferanese – mostra mercato,05 Ottobre 2025 - 26 Ottobre 2025,2025-10-05,2025-10-26,Zafferana Etnea (CT),CT
+Sagra della castagna e del marrone tipico,05 Ottobre 2025 - 26 Ottobre 2025,2025-10-05,2025-10-26,Zocca (MO),MO
+Antichi sapori,05 Ottobre 2025 - 12 Ottobre 2025,2025-10-05,2025-10-12,Cessapalombo (MC),MC
+Autunno contadino,05 Ottobre 2025,2025-10-05,2025-10-05,Molina (TN),TN
+Cinghiale e castagna,05 Ottobre 2025 - 26 Ottobre 2025,2025-10-05,2025-10-26,Montefiore Conca (RN),RN
+Sagra del marrone e dei frutti del sottobosco,05 Ottobre 2025 - 26 Ottobre 2025,2025-10-05,2025-10-26,Palazzuolo Sul Senio (FI),FI
+Festa dell’uva,05 Ottobre 2025,2025-10-05,2025-10-05,Savorgnano (UD),UD
+Sagra del Fungo,05 Ottobre 2025,2025-10-05,2025-10-05,San Pietro Val Lemina (TO),TO
+Festa della Zucca,05 Ottobre 2025 - 19 Ottobre 2025,2025-10-05,2025-10-19,Gavirate (VA),VA
+Sagra del Marrone,05 Ottobre 2025 - 26 Ottobre 2025,2025-10-05,2025-10-26,Castel del Rio (BO),BO
+Sagra delle Frugiate,05 Ottobre 2025 - 19 Ottobre 2025,2025-10-05,2025-10-19,Vellano (PT),PT
+Sagra dell’Acquaticcio,05 Ottobre 2025,2025-10-05,2025-10-05,Colleluce (MC),MC
+Festa della pizza chiena satrianese,05 Ottobre 2025,2025-10-05,2025-10-05,Satriano di Lucania (PZ),PZ
+Fiera Nazionale del tartufo bianco pregiato di Pergola,05 Ottobre 2025 - 19 Ottobre 2025,2025-10-05,2025-10-19,Pergola (PU),PU
+Ottobre a Caldana,05 Ottobre 2025 - 26 Ottobre 2025,2025-10-05,2025-10-26,Caldana (GR),GR
+Dì de la brisaola,05 Ottobre 2025,2025-10-05,2025-10-05,Chiavenna (SO),SO
+Festa del Radicchio di Bieno,05 Ottobre 2025,2025-10-05,2025-10-05,Bieno (TN),TN
+Festa delle Giuggiole,05 Ottobre 2025 - 12 Ottobre 2025,2025-10-05,2025-10-12,Arquà Petrarca (PD),PD
+Festa dei cavoli nostri,05 Ottobre 2025,2025-10-05,2025-10-05,Collina (AL),AL
+Sagra della patata,05 Ottobre 2025 - 12 Ottobre 2025,2025-10-05,2025-10-12,Piandelagotti (MO),MO
+Festa dell’uva e dei fiori,09 Ottobre 2025 - 12 Ottobre 2025,2025-10-09,2025-10-12,Foresto Sparso (BG),BG
+Festa dell’uva,09 Ottobre 2025 - 12 Ottobre 2025,2025-10-09,2025-10-12,Arcevia (AN),AN
+Sagra della Bagna cauda,09 Ottobre 2025 - 12 Ottobre 2025,2025-10-09,2025-10-12,Volpiano (TO),TO
+Mostra mercato nazionale del tartufo e dei prodotti tipici locali,09 Ottobre 2025 - 12 Ottobre 2025,2025-10-09,2025-10-12,Colliano (SA),SA
+Sagra dei Panocini,09 Ottobre 2025 - 14 Ottobre 2025,2025-10-09,2025-10-14,Legnago (VR),VR
+Sagra del pistacchio verde di Bronte DOP,10 Ottobre 2025 - 19 Ottobre 2025,2025-10-10,2025-10-19,Bronte (CT),CT
+Sagra della mela e dell’uva,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Villa di Tirano (SO),SO
+Festival Internazionale “Mortadella please”,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Zola Predosa (BO),BO
+Sagra della patata,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Leonessa (RI),RI
+Sagra della castagna di Serino IGP,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Serino (AV),AV
+Mostra mercato del tartufo bianco e della patata,10 Ottobre 2025 - 19 Ottobre 2025,2025-10-10,2025-10-19,Pietralunga (PG),PG
+Sagra dell’Uva Italia e sagra delle Pincinelle,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Colonna (RM),RM
+Sagra della Zucca,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Meugliano (TO),TO
+Sagra della mostarda dei fichi d’india,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Pedagaggi (BN),BN
+Sagra della castagna e della nocciola,10 Ottobre 2025 - 19 Ottobre 2025,2025-10-10,2025-10-19,Avella (AV),AV
+Festa dei marroni di Combai,10 Ottobre 2025 - 02 Novembre 2025,2025-10-10,2025-11-02,Combai (TV),TV
+Sagra del cinghiale e della castagna,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,San Potito Ultra (AV),AV
+Sagra della Castagna,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Montorsaio (GR),GR
+Sagra delle olive,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Sannicandro di Bari (BA),BA
+Festa del Miele,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Belforte all'isauro (PU),PU
+Sagre da las masanetes,10 Ottobre 2025 - 19 Ottobre 2025,2025-10-10,2025-10-19,Villaorba (TV),TV
+"Sagra del cardo, della bagna cauda e della cipolla piattellina",10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Andezeno (TO),TO
+Sagra del ciapinabò,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Carignano (TO),TO
+Mele a mel,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Mel (BL),BL
+Sagra del tartufo di Bondeno,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Bondeno (FE),FE
+Sagra della Salsiccia,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Montemilone (PZ),PZ
+Zafarana Fest,10 Ottobre 2025 - 12 Ottobre 2025,2025-10-10,2025-10-12,Tortora (CS),CS
+Pomaria festa della mela DOP,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Denno (TN),TN
+Fiera internazionale del tartufo bianco d’Alba,11 Ottobre 2025 - 08 Dicembre 2025,2025-10-11,2025-12-08,Alba (CN),CN
+Sagra del fungo Silano,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Camigliatello Silano (CS),CS
+Tovena in festa,11 Ottobre 2025 - 31 Ottobre 2025,2025-10-11,2025-10-31,Tovena (TN),TN
+Sagra del crin,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Lesegno (CN),CN
+Sagra della castagna,11 Ottobre 2025 - 26 Ottobre 2025,2025-10-11,2025-10-26,Trecchina (PZ),PZ
+Marchè au fort,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Bard (AO),AO
+Festa della Castagna,11 Ottobre 2025 - 02 Novembre 2025,2025-10-11,2025-11-02,Vallerano (VT),VT
+Sagra del Tartufo,11 Ottobre 2025 - 19 Ottobre 2025,2025-10-11,2025-10-19,Canterano (RM),RM
+Sapori d’autunno,11 Ottobre 2025 - 19 Ottobre 2025,2025-10-11,2025-10-19,Costigliole d'Asti (AT),AT
+Paletta e dintorni,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Coggiola (BI),BI
+Sagra delle sagne e farre,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Licenza (RM),RM
+Sagra della Castagna,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Cassano Irpino (AV),AV
+Mele vallée – Festa d’autunno,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Antey-Saint-André (AO),AO
+Sagra della zucca bertagnina,11 Ottobre 2025 - 17 Ottobre 2025,2025-10-11,2025-10-17,Dorno (PV),PV
+Pomaria,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Denno (TN),TN
+Pomo pero,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Lusiana Conco (VI),VI
+Sagra del fungo amiatino,11 Ottobre 2025 - 19 Ottobre 2025,2025-10-11,2025-10-19,Bagnolo (TN),TN
+Festa della mela di Castel del Giudice,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Castel del Giudice (IS),IS
+Parco urbano delle cantine di Rapolla,11 Ottobre 2025 - 12 Ottobre 2025,2025-10-11,2025-10-12,Rapolla (PZ),PZ
+Sagra del Polentone,12 Ottobre 2025,2025-10-12,2025-10-12,Sant'Angelo in Pontano (MC),MC
+Festa del nuovo raccolto,12 Ottobre 2025,2025-10-12,2025-10-12,Arro (SA),SA
+Pranzo della rapa bianca,12 Ottobre 2025,2025-10-12,2025-10-12,Caprauna (CN),CN
+Festa della castagna,12 Ottobre 2025,2025-10-12,2025-10-12,Molini di Triora (IM),IM
+Il mulino e il suo tempo,12 Ottobre 2025 - 19 Ottobre 2025,2025-10-12,2025-10-19,Refrontolo (TV),TV
+Festa della castagna,12 Ottobre 2025 - 26 Ottobre 2025,2025-10-12,2025-10-26,Marola (MS),MS
+Sagra del fungo e della castagna,12 Ottobre 2025 - 19 Ottobre 2025,2025-10-12,2025-10-19,Vivo D'orcia (SI),SI
+Fiera della Polenta,16 Ottobre 2025 - 09 Novembre 2025,2025-10-16,2025-11-09,Vigasio (VR),VR
+Sagra della vulia cazzata,16 Ottobre 2025 - 19 Ottobre 2025,2025-10-16,2025-10-19,Martano (LE),LE
+Sagra del pan-zal,16 Ottobre 2025 - 26 Ottobre 2025,2025-10-16,2025-10-26,Rosa (SA),SA
+Festa del Vì de Visciola,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,San Paolo di Jesi (AN),AN
+Sagra Nazionale del calzone,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Acquaviva delle Fonti (BA),BA
+Sagra della varola,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Melfi (PZ),PZ
+Fiera nazionale del marrone,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Cuneo (CN),CN
+Leguminaria,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Appignano (MC),MC
+Sagra delle castagne,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Capradosso (AQ),AQ
+Mais&Cavalli,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Vigone (TO),TO
+Lungo le Antiche Rue,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Civitella Roveto (AQ),AQ
+Festival della sbrisolona e dei dolci italiani,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Mantova (MN),MN
+Sagra del pane,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Ramacca (CT),CT
+Festa della Zucca,17 Ottobre 2025 - 02 Novembre 2025,2025-10-17,2025-11-02,Salzano (VE),VE
+Sagra del cavolo liscio,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Moriondo (TO),TO
+Sagra del fagiolo di Saluggia,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Saluggia (VC),VC
+Opuntia Ficus Indica Fest,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Roccapalumba (PA),PA
+Il Tartufo tra i sapori di autunno,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Capizzi (ME),ME
+Sagra delle castagne,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Rocca di Papa (RM),RM
+Festa della mela di valle maddaloni,17 Ottobre 2025 - 26 Ottobre 2025,2025-10-17,2025-10-26,Valle di Maddaloni (CE),CE
+Il nero di Bagnoli,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Bagnoli Irpino (AV),AV
+Sagra della Caldarrosta,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Trezzano Rosa (MI),MI
+Festa Regionale Cavolo dell’Adige,17 Ottobre 2025 - 20 Ottobre 2025,2025-10-17,2025-10-20,Castagnaro (VR),VR
+Fiera del rapulé,17 Ottobre 2025 - 19 Ottobre 2025,2025-10-17,2025-10-19,Calosso (AT),AT
+Sagra della lumaca,17 Ottobre 2025 - 20 Ottobre 2025,2025-10-17,2025-10-20,Gesico (SU),SU
+Sagra della polenta di Arborea,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Arborea (OR),OR
+Mostra del Bitto,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Morbegno (SO),SO
+Mostra mercato del sedano nero e sagra della salsiccia,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Trevi (PG),PG
+Sagra della zucca,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Agra (VA),VA
+Sagra della pappardella al cinghiale,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Sacrofano (RM),RM
+Sagra della patata e dei prodotti d’autunno,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Cagno (CO),CO
+Funghi Fest,18 Ottobre 2025 - 26 Ottobre 2025,2025-10-18,2025-10-26,Castelbuono (PA),PA
+Festa dei Porcu Meu,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Muro Leccese (LE),LE
+Zuccainpiazza,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Bormida-Genepro (CN),CN
+Festa della Castagna e del Marrone Dop Caprese,18 Ottobre 2025 - 26 Ottobre 2025,2025-10-18,2025-10-26,Caprese Michelangelo (AR),AR
+Sagra del suino nero e del Fungo porcino di Nebrodi,18 Ottobre 2025 - 26 Ottobre 2025,2025-10-18,2025-10-26,Cesarò (ME),ME
+"Lo pan ner, i pani delle Alpi",18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Valle d'Aosta (AO),AO
+Festa della zucca,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Terzo D'aquileia (UD),UD
+Festa dei Pomi,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,San Pietro Viminario (PD),PD
+Sagra del fagiolo borbontino,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Borbona (RI),RI
+Sagra della castagna,18 Ottobre 2025 - 26 Ottobre 2025,2025-10-18,2025-10-26,Sicignano degli Alburni (SA),SA
+Sapori di castagne,18 Ottobre 2025 - 26 Ottobre 2025,2025-10-18,2025-10-26,Magnano In Riviera (UD),UD
+Palio dei cantù,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Martinengo (BG),BG
+Simposio top wine 2950,18 Ottobre 2025,2025-10-18,2025-10-18,Canazei (TN),TN
+Sagra della zucca,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Aquileia (UD),UD
+Sagra dei marroni,18 Ottobre 2025 - 26 Ottobre 2025,2025-10-18,2025-10-26,Rocca Massima (LT),LT
+Sagra della Castagna,18 Ottobre 2025 - 19 Ottobre 2025,2025-10-18,2025-10-19,Summonte (AV),AV
+Sagra del tartufo,19 Ottobre 2025 - 26 Ottobre 2025,2025-10-19,2025-10-26,Dovadola (FC),FC
+La mela benefica – Sagra della mela e dei sapori tirolesi,19 Ottobre 2025,2025-10-19,2025-10-19,Bolzano Novarese (NO),NO
+Festa della zucca e dei fiori d’autunno,19 Ottobre 2025,2025-10-19,2025-10-19,Montagnana (PD),PD
+Sagra della Polenta,19 Ottobre 2025,2025-10-19,2025-10-19,Casperia (RI),RI
+Sagra della Salsiccia,19 Ottobre 2025,2025-10-19,2025-10-19,Camerata Nuova (RM),RM
+Festa della Castagna,19 Ottobre 2025,2025-10-19,2025-10-19,Tufo Basso (AV),AV
+Festa della castagna di Intermesoli,19 Ottobre 2025,2025-10-19,2025-10-19,Intermesoli (AQ),AQ
+Festa rurale del Cevrin di Coazze,19 Ottobre 2025,2025-10-19,2025-10-19,Coazze (TO),TO
+Festa del sedano rosso,19 Ottobre 2025,2025-10-19,2025-10-19,Orbassano (TO),TO
+Keschtnriggl festa della castagna,19 Ottobre 2025 - 02 Novembre 2025,2025-10-19,2025-11-02,Foiana (UD),UD
+Sagra della castagna,20 Ottobre 2025 - 26 Ottobre 2025,2025-10-20,2025-10-26,Cave (RM),RM
+Il marrone Segnino,23 Ottobre 2025 - 26 Ottobre 2025,2025-10-23,2025-10-26,Segni (RM),RM
+Festa del Folpo,23 Ottobre 2025 - 27 Ottobre 2025,2025-10-23,2025-10-27,Noventana (FE),FE
+Fira ‘d la calà,23 Ottobre 2025 - 26 Ottobre 2025,2025-10-23,2025-10-26,Bobbio Pellice (TO),TO
+Sagra del miele di Châtillon,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Châtillon (AO),AO
+Festa del baccalà,24 Ottobre 2025 - 02 Novembre 2025,2025-10-24,2025-11-02,Ronchi di Campanile (RN),RN
+Sagra della Castagna del Partenio,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Cervinara (AV),AV
+Sagra della Castagna,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Sorbo Serpico (AV),AV
+Sagra della castagna,24 Ottobre 2025 - 27 Ottobre 2025,2025-10-24,2025-10-27,San Cipriano Picentino (SA),SA
+Sagra dei sapori Madoniti d’autunno,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Petralia Sottana (PA),PA
+Festa dell’olio,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Lucca Sicula (AG),AG
+Festa della sapa e del vin brulè,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Rosora (AN),AN
+Sagra Polenta Taragna,24 Ottobre 2025 - 09 Novembre 2025,2025-10-24,2025-11-09,Spirano (BG),BG
+Sagra del totano,24 Ottobre 2025 - 02 Novembre 2025,2025-10-24,2025-11-02,Capraia Isola (LI),LI
+Zafferiamo,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Città della Pieve (PG),PG
+Castagnata di Lillianes,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Lillianes (AO),AO
+Sagra della Castanicoltura,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Fagnano Castello (CS),CS
+Sagra dei li pani fattu in domu,24 Ottobre 2025 - 26 Ottobre 2025,2025-10-24,2025-10-26,Villaurbana (OR),OR
+Mostra e sagra dei funghi,25 Ottobre 2025,2025-10-25,2025-10-25,Ucria (ME),ME
+Sagra della mostarda di fichi d’india,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Gagliano Castelferrato (EN),EN
+Sagra della castagna roscetta,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Canistro Inferiore (AQ),AQ
+Mostra dei formaggi della valle del Belice e sagra della ricotta,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Poggioreale (TP),TP
+Festa della zucca,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Venzone (UD),UD
+Volterra gusto,25 Ottobre 2025 - 02 Novembre 2025,2025-10-25,2025-11-02,Volterra (PI),PI
+Sagra della salsiccia,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Morlupo (RM),RM
+Sagra dell’olio d’oliva,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Cervino (CE),CE
+Mostra dei vini dei colli Euganei,25 Ottobre 2025 - 09 Novembre 2025,2025-10-25,2025-11-09,Torreglia (PD),PD
+Sagra mercato della castagna,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Montemonaco (AP),AP
+Festa del Kiwi,25 Ottobre 2025,2025-10-25,2025-10-25,Pizzale (PV),PV
+Zucca Days,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Casumaro (FE),FE
+Festa dea Panocia,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Vigonza (PD),PD
+Fiesta de li Sucis,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Cordenons (PN),PN
+Sagra della Castagna,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,San Felice D'ocre (RI),RI
+Sagra della Castagna e dei prodotti del sottobosco,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Calvello (PZ),PZ
+Festa della patata di Montagna,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Castelcivita (SA),SA
+Sagra del tartufo bianco delle Colline Sanminiatesi,25 Ottobre 2025 - 02 Novembre 2025,2025-10-25,2025-11-02,Ponte a Egola (PI),PI
+Super Castagnata,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Ripatransone (AP),AP
+Sagra della Bagna Cauda,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Belveglio (AT),AT
+L’Umbria in un bicchiere,25 Ottobre 2025,2025-10-25,2025-10-25,Foligno (PG),PG
+Capricci d’autunno,25 Ottobre 2025 - 09 Novembre 2025,2025-10-25,2025-11-09,Fiumedinisi (ME),ME
+Bacco per Bacco,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Turi (BA),BA
+Sagra delle “Zazzicchie e Verole”,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Gerano (RM),RM
+Tartófla – Festival Internazionale del tartufo bianco,25 Ottobre 2025 - 16 Novembre 2025,2025-10-25,2025-11-16,Savigno (BO),BO
+Sagra della Castagna,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Calvello (PZ),PZ
+Fiera del Sant – Fièro di Sant,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Vinadio (CN),CN
+Festa d’autunno ciccioli balsamici,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Albinea (RE),RE
+Sagra della Castagna,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Martone (RC),RC
+Sagra della Castagna di Aritzo,25 Ottobre 2025 - 26 Ottobre 2025,2025-10-25,2025-10-26,Aritzo (NU),NU
+Sagra delle radici di Soncino,26 Ottobre 2025,2025-10-26,2025-10-26,Soncino (CR),CR
+Sagra della Castagna,26 Ottobre 2025,2025-10-26,2025-10-26,Montagnareale (ME),ME
+Sagra dell’Agnellone e del Castrato,26 Ottobre 2025,2025-10-26,2025-10-26,Brisighella (RA),RA
+Castagnata di Flagogna,26 Ottobre 2025,2025-10-26,2025-10-26,Flagogna (AP),AP
+Festa del braciere,26 Ottobre 2025,2025-10-26,2025-10-26,Moresco (FM),FM
+Sagra del marrone locale,26 Ottobre 2025,2025-10-26,2025-10-26,Polverina (CB),CB
+Saboris Antigus,26 Ottobre 2025,2025-10-26,2025-10-26,Gergei (SU),SU
+Schisciafarniscula,26 Ottobre 2025,2025-10-26,2025-10-26,Cassolnovo (PV),PV
+Festa del marrone,26 Ottobre 2025,2025-10-26,2025-10-26,Castione (BG),BG
+I centogusti dell’appennino,30 Ottobre 2025 - 02 Novembre 2025,2025-10-30,2025-11-02,Anghiari (AR),AR
+Soca Fest,30 Ottobre 2025 - 02 Novembre 2025,2025-10-30,2025-11-02,Palazzago (BG),BG
+Festival della Valtellina,30 Ottobre 2025 - 02 Novembre 2025,2025-10-30,2025-11-02,Lomazzo (CO),CO
+Sagra della strazzata – Festival dei grani antichi,31 Ottobre 2025 - 02 Novembre 2025,2025-10-31,2025-11-02,Lagopesole (PZ),PZ
+Sagra della Ciuìga,31 Ottobre 2025 - 02 Novembre 2025,2025-10-31,2025-11-02,San Lorenzo Dorsino (TN),TN
+Ferrara Food Festival,31 Ottobre 2025 - 02 Novembre 2025,2025-10-31,2025-11-02,Ferrara (FE),FE
+Mostra mercato nazionale del tartufo bianco,31 Ottobre 2025 - 02 Novembre 2025,2025-10-31,2025-11-02,Città di Castello (PG),PG
+Sapori di Laverino,31 Ottobre 2025 - 02 Novembre 2025,2025-10-31,2025-11-02,Laverino (LC),LC
+Mostra mercato del tartufo bianco di Carbone,31 Ottobre 2025 - 02 Novembre 2025,2025-10-31,2025-11-02,Carbone (PZ),PZ
+Sapori d’autunno,31 Ottobre 2025 - 02 Novembre 2025,2025-10-31,2025-11-02,Pietrapertosa (PZ),PZ
+Sagra della castagna,01 Novembre 2025 - 02 Novembre 2025,2025-11-01,2025-11-02,Sante Marie (AQ),AQ
+Sagra del fungo cardoncello,01 Novembre 2025 - 02 Novembre 2025,2025-11-01,2025-11-02,Spinazzola (BT),BT
+Sagra del Marrone,01 Novembre 2025 - 02 Novembre 2025,2025-11-01,2025-11-02,Arcinazzo Romano (RM),RM
+"Festa del vino cotto, castagne e sapori d’autunno",01 Novembre 2025 - 02 Novembre 2025,2025-11-01,2025-11-02,Roccamontepiano (CH),CH
+Fiera Nazionale del Tartufo Bianco di Acqualagna,01 Novembre 2025 - 23 Novembre 2025,2025-11-01,2025-11-23,Acqualagna (PU),PU
+Agrimontana,01 Novembre 2025 - 02 Novembre 2025,2025-11-01,2025-11-02,Palazzolo Acreide (SR),SR
+Strade dello Zafferano di Sardegna DOP,02 Novembre 2025 - 16 Novembre 2025,2025-11-02,2025-11-16,Villanovafranca (SU),SU
+Frantoi aperti in Valle Roveto,02 Novembre 2025 - 15 Novembre 2025,2025-11-02,2025-11-15,San Vincenzo Valle Roveto (AQ),AQ
+Sagra della castagna,05 Novembre 2025 - 09 Novembre 2025,2025-11-05,2025-11-09,Sant'Agata di Esaro (CS),CS
+Sagra mele miele,07 Novembre 2025 - 09 Novembre 2025,2025-11-07,2025-11-09,Baceno (VB),VB
+Sagra della castagna IGP,07 Novembre 2025 - 16 Novembre 2025,2025-11-07,2025-11-16,Montella (AV),AV
+La Mangiaunta,07 Novembre 2025 - 09 Novembre 2025,2025-11-07,2025-11-09,Giano Dell'umbria (PG),PG
+Olioliva festa dell’olio nuovo,07 Novembre 2025 - 09 Novembre 2025,2025-11-07,2025-11-09,Imperia (IM),IM
+Festa del radicchio rosso di Treviso IGP,07 Novembre 2025 - 23 Novembre 2025,2025-11-07,2025-11-23,Rio San Martino (TV),TV
+Festa del vino,07 Novembre 2025 - 09 Novembre 2025,2025-11-07,2025-11-09,Procida (NO_PROV),NO_PROV
+Festa della castagna,07 Novembre 2025 - 09 Novembre 2025,2025-11-07,2025-11-09,Riofreddo (RM),RM
+DeguScanno,07 Novembre 2025 - 09 Novembre 2025,2025-11-07,2025-11-09,Scanno (AQ),AQ
+Festa del torrone,08 Novembre 2025 - 16 Novembre 2025,2025-11-08,2025-11-16,Cremona (CR),CR
+Bacco nelle gnostre,08 Novembre 2025 - 09 Novembre 2025,2025-11-08,2025-11-09,Noci (BA),BA
+Fiera del porro,08 Novembre 2025 - 23 Novembre 2025,2025-11-08,2025-11-23,Cervere (CN),CN
+Le cantine di San Martino,08 Novembre 2025 - 09 Novembre 2025,2025-11-08,2025-11-09,Arce (FR),FR
+Festa del tartufo,08 Novembre 2025 - 16 Novembre 2025,2025-11-08,2025-11-16,Campoli Appennino (FR),FR
+L’oca e il vin novello,08 Novembre 2025 - 09 Novembre 2025,2025-11-08,2025-11-09,Lavariano (UD),UD
+Fiera del bollito con la pearà e sapori d’autunno,13 Novembre 2025 - 30 Novembre 2025,2025-11-13,2025-11-30,Isola della Scala (VR),VR
+Sagra della Cassatella di Agira,14 Novembre 2025 - 16 Novembre 2025,2025-11-14,2025-11-16,Agira (EN),EN
+Sagra delle olive,14 Novembre 2025 - 16 Novembre 2025,2025-11-14,2025-11-16,Gonnosfanadiga (SU),SU
+Aj a Caraj,15 Novembre 2025 - 16 Novembre 2025,2025-11-15,2025-11-16,Caraglio (CN),CN
+Il cardoncello novello,15 Novembre 2025 - 16 Novembre 2025,2025-11-15,2025-11-16,Gravina in Puglia (BA),BA
+Fera dij Còj,15 Novembre 2025 - 16 Novembre 2025,2025-11-15,2025-11-16,Settimo Torinese (TO),TO
+Festa della pitina,15 Novembre 2025 - 16 Novembre 2025,2025-11-15,2025-11-16,Tramonti di Sopra (PN),PN
+Sagra del cavolo verza,19 Novembre 2025 - 23 Novembre 2025,2025-11-19,2025-11-23,Montalto Dora (TO),TO
+Festa della cicerchia,21 Novembre 2025 - 23 Novembre 2025,2025-11-21,2025-11-23,Serra De' Conti (AN),AN
+Sagra dell’ulivo e dell’olio,23 Novembre 2025,2025-11-23,2025-11-23,Brisighella (RA),RA
+Festa della cicerchia di Serra de’ Conti,28 Novembre 2025 - 30 Novembre 2025,2025-11-28,2025-11-30,Serra De' Conti (AN),AN
+Festa del mandorlato,29 Novembre 2025 - 07 Dicembre 2025,2025-11-29,2025-12-07,Cologna Veneta (VR),VR
+Sagra del maiale e del cinghiale,29 Novembre 2025 - 30 Novembre 2025,2025-11-29,2025-11-30,Antillo (ME),ME
+Sagra del buccellato,29 Novembre 2025 - 30 Novembre 2025,2025-11-29,2025-11-30,Casteldaccia (PA),PA
+Olio & Farro,29 Novembre 2025 - 30 Novembre 2025,2025-11-29,2025-11-30,Alviano (TR),TR
+Fiera fredda – Fiera Nazionale della lumaca piemontese,03 Dicembre 2025 - 07 Dicembre 2025,2025-12-03,2025-12-07,Borgo San Dalmazzo (CN),CN
+Festa del radicchio,03 Dicembre 2025 - 07 Dicembre 2025,2025-12-03,2025-12-07,Asigliano Veneto (VI),VI
+Festa dell’olio,05 Dicembre 2025 - 07 Dicembre 2025,2025-12-05,2025-12-07,San Quirico d'Orcia (SI),SI
+Choco Modica,05 Dicembre 2025 - 08 Dicembre 2025,2025-12-05,2025-12-08,Modica (RG),RG
+Festa del Torrone e del Croccantino,05 Dicembre 2025 - 14 Dicembre 2025,2025-12-05,2025-12-14,San Marco dei Cavoti (BN),BN
+Sagra dell’olivo di Canino,06 Dicembre 2025 - 08 Dicembre 2025,2025-12-06,2025-12-08,Canino (VT),VT
+Festa del Sedano Nero di Torricella Peligna,07 Dicembre 2025 - 14 Dicembre 2025,2025-12-07,2025-12-14,Torricella Peligna (CH),CH
+Festa de Su Binu Nou,08 Dicembre 2025,2025-12-08,2025-12-08,Sardara (SU),SU
+Festa dello zampone e del cotechino Modena IGP,12 Dicembre 2025 - 14 Dicembre 2025,2025-12-12,2025-12-14,Modena (MO),MO
+Fiera del bue grasso,12 Dicembre 2025,2025-12-12,2025-12-12,Carrù (CN),CN
+Festa del Radicchio variegato di Castelfranco IGP,13 Dicembre 2025 - 14 Dicembre 2025,2025-12-13,2025-12-14,Castelfranco Veneto (TV),TV
