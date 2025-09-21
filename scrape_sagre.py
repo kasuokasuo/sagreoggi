@@ -109,12 +109,16 @@ for s in raw_sagre:
     seen.append(chiave)
     sagre_final.append(s)
 
-# --- Aggiorna città con provincia (senza parentesi) e formatta date ---
+# --- Aggiorna città con provincia e formatta date ---
 for s in sagre_final:
-    citta = s.get("citta", "NO_CITTA")
+    citta = s.get("citta", "NO_CITTA").strip()
     provincia = mappa_citta_provincia.get(citta, "NO_PROV")
+
+    # Mantieni città pulita e provincia separata
     s["citta"] = citta
     s["provincia"] = provincia
+
+    # Formatta date
     s["start"] = s["start"][:10] if s.get("start") else ""
     s["end"]   = s["end"][:10] if s.get("end") else ""
 
@@ -127,7 +131,6 @@ with open("sagre_processed.csv", "w", newline="", encoding="utf-8") as f:
     writer.writeheader()
     for s in sagre_final:
         writer.writerow(s)
-
 
 print(f"💾 File salvati: sagre_final.json e sagre_final.csv")
 
