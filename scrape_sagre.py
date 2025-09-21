@@ -50,6 +50,35 @@ def parse_date(date_str):
         return start, end
     except Exception:
         return None, None
+        
+def format_date(start, end):
+    """Formatta start/end compatto, senza zero iniziale e senza spazi tra i giorni se stesso mese"""
+    import datetime
+
+    months = [
+        "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
+        "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"
+    ]
+
+    if not start or not end:
+        return ""
+
+    try:
+        start_dt = datetime.datetime.strptime(start, "%Y-%m-%d")
+        end_dt   = datetime.datetime.strptime(end, "%Y-%m-%d")
+    except Exception:
+        return ""
+
+    # stesso anno e mese
+    if start_dt.year == end_dt.year and start_dt.month == end_dt.month:
+        return f"{start_dt.day}-{end_dt.day} {months[start_dt.month-1]} {start_dt.year}"
+    # stesso anno, mesi diversi
+    elif start_dt.year == end_dt.year:
+        return f"{start_dt.day} {months[start_dt.month-1]} - {end_dt.day} {months[end_dt.month-1]} {start_dt.year}"
+    # anno diverso
+    else:
+        return f"{start_dt.day} {months[start_dt.month-1]} {start_dt.year} - {end_dt.day} {months[end_dt.month-1]} {end_dt.year}"
+
 
 def normalize_name(name):
     return name.lower().strip()
@@ -109,18 +138,20 @@ for s in raw_sagre:
     seen.append(chiave)
     sagre_final.append(s)
 
-# --- Aggiorna città con provincia e formatta date ---
+# --- Aggiorna città con provincia e formatta date compatto ---
 for s in sagre_final:
+    # Pulisci città e provincia separata
     citta = s.get("citta", "NO_CITTA").strip()
     provincia = mappa_citta_provincia.get(citta, "NO_PROV")
-
-    # Mantieni città pulita e provincia separata
     s["citta"] = citta
     s["provincia"] = provincia
 
-    # Formatta date
-    s["start"] = s["start"][:10] if s.get("start") else ""
-    s["end"]   = s["end"][:10] if s.get("end") else ""
+    # Mantieni start/end per calendario
+    s["start"] = s.get("start","")[:10]
+    s["end"]   = s.get("end","")[:10]
+
+    # Format compatto per la colonna "date"
+    s["date"] = format_date(s["start"], s["end"])
 
 # --- Salva JSON e CSV finale con nome standard per il sito ---
 with open("sagre_processed.json", "w", encoding="utf-8") as f:
